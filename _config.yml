@@ -1,0 +1,9 @@
+title: Dmytro Yantsybaiev
+description: Legal documents for apps by Dmytro Yantsybaiev.
+theme: jekyll-theme-primer
+url: https://dmytro-yantsybaiev.github.io
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
