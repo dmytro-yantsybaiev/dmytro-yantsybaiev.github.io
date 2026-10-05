@@ -6,131 +6,128 @@ permalink: /diff-for-gitlab/terms/
 # Diff for GitLab — Terms of Use
 
 **Effective date:** 6 October 2026
-**Last updated:** 6 October 2026
 
-These Terms of Use ("Terms") are a legal agreement between you and Dmytro Yantsybaiev, an individual software developer ("the Developer", "I", "me"), for the iOS application **Diff for GitLab** ("the App"). By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
+These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who publishes the iOS application **Diff for GitLab** ("the App") as a trader ("I", "me"). By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
 
-In short: the App is an independent client for GitLab. It runs on your device with your own GitLab credentials, which never pass through my servers. Full access is sold as an auto-renewing subscription through Apple. I am not GitLab Inc. and I am not Apple.
+In short: the App is an independent client for GitLab. It runs on your device with your own GitLab credentials, which never leave your device except to go to your GitLab server. Full access is sold as an auto-renewing subscription through Apple. I am not GitLab Inc. and I am not Apple. If you are a consumer, nothing in these Terms takes away rights that the law of your country gives you.
 
-## 1. Who you are contracting with
+## 1. What the App does and what it needs
 
-These Terms are between you and the Developer only, not with Apple Inc. or any of its subsidiaries ("Apple"). Apple is not a party to these Terms and is not responsible for the App or its content. Where these Terms conflict with the Apple Media Services Terms and Conditions, including their Licensed Application End User License Agreement, the Apple terms prevail to the extent of the conflict.
-
-## 2. Independent of GitLab
-
-Diff for GitLab is an independent, third-party client. It is not affiliated with, endorsed by, sponsored by or otherwise connected to GitLab Inc. "GitLab" and the GitLab logo are trademarks of GitLab Inc., used here only to describe what the App connects to.
-
-Your use of GitLab itself, whether gitlab.com or a self-managed instance, is governed by GitLab's own terms or by the rules of the organisation that runs that instance. Nothing in these Terms changes those obligations.
-
-## 3. What the App does
-
-The App shows merge requests, pipelines, projects and files from the GitLab server you sign in to. It can also perform actions on that server on your behalf, such as approving or merging a merge request, posting a comment, retrying, cancelling or starting a pipeline job, and starring a project.
+The App shows merge requests, pipelines, projects and files from the GitLab server you sign in to. It can also perform actions on that server on your behalf, for example approving or removing your approval, merging or rebasing a merge request, commenting or resolving a thread, retrying, cancelling or running a pipeline or job, and starring a project.
 
 The App performs these actions only when you ask it to, by tapping the corresponding control. Every action runs under your GitLab account and is subject to the permissions that account has. You are responsible for the actions you take through the App, exactly as if you had taken them on the GitLab website.
 
+The App requires an iPhone or iPad running iOS 26 or later, and a GitLab account on gitlab.com or on a self-managed GitLab server running version 15.6 or later. It needs an internet connection, except for content already cached on your device.
+
+## 2. Independent of GitLab
+
+Diff for GitLab is an independent, third-party client. It is not affiliated with, endorsed by, sponsored by or otherwise connected to GitLab Inc. "GitLab" is a trademark of GitLab Inc.; the name "Diff for GitLab" uses it only to describe the service the App connects to, in line with GitLab's trademark guidelines.
+
+Your use of GitLab itself, whether gitlab.com or a self-managed instance, is governed by GitLab's own terms or by the rules of the organisation that runs that instance. Nothing in these Terms changes those obligations.
+
+## 3. Your GitLab account and credentials
+
+To use the App you sign in to a GitLab server with a personal access token that you create, or with OAuth. Either way the App needs GitLab's `api` scope, which is what allows approving, merging, commenting and running pipelines.
+
+You are responsible for keeping your token and your device secure, and for making sure you are allowed to use the GitLab instance you connect to under its rules and any policies of your employer or organisation. You can withdraw the App's access at any time by revoking the token or the authorised application in GitLab. The Privacy Policy describes how the App stores and uses your credentials.
+
 ## 4. Licence
 
-Subject to these Terms, the Developer grants you a limited, non-exclusive, non-transferable, revocable licence to use the App on Apple-branded devices that you own or control, as permitted by the Usage Rules in the Apple Media Services Terms and Conditions. You may not:
+I grant you a limited, non-exclusive, non-transferable licence to use the App on Apple-branded devices that you own or control, as permitted by the Usage Rules in the Apple Media Services Terms and Conditions. The App itself may also be accessed and used by other accounts associated with you through Family Sharing or volume purchasing, as Apple permits. Subscriptions are not enabled for Family Sharing; each Apple Account that wants full access needs its own subscription.
+
+You may not:
 
 - copy, modify, distribute, sell, rent or sublicense the App;
 - reverse engineer, decompile or attempt to extract the source code of the App, except where the law expressly allows it;
 - bypass, disable or interfere with the App's subscription or purchase checks;
 - use the App in a way that is unlawful, that violates GitLab's terms or the rules of the GitLab instance you connect to, or that abuses, overloads or damages a GitLab server.
 
-Subscriptions to the App are not shared through Family Sharing.
-
-## 5. Your GitLab account and credentials
-
-To use the App you sign in to a GitLab server with a personal access token or with OAuth. In both cases the App requests GitLab's `api` permission, which is the only GitLab permission that allows approving, merging, commenting and running pipelines.
-
-You are responsible for keeping your token and your device secure, and for making sure you are allowed to use the GitLab instance you connect to under its rules and any policies of your employer or organisation. You can withdraw the App's access at any time by revoking the token or the authorised application in GitLab. The Privacy Policy describes how the App stores and uses your credentials.
-
-## 6. Subscriptions and payment
+## 5. Subscriptions and payment
 
 After the introductory screens, using the App requires an active subscription. Two plans are offered:
 
 | Plan | Billing | Free trial |
 |---|---|---|
 | Yearly Plan | Billed once per year | None |
-| Weekly Plan | Billed once per week | 3 days, for eligible new subscribers |
+| Weekly Plan | Billed once per week | 3 days, for Apple Accounts that have not subscribed to any Diff for GitLab plan before. Eligibility is decided by Apple. |
 
-- **Prices.** The exact price is shown in the App and on the App Store at the time of purchase. Prices vary by country, currency and applicable taxes, and may change for future renewal periods; Apple notifies you of price changes in advance.
-- **Payment.** Payment is charged to your Apple Account when you confirm the purchase, or at the end of the free trial if you do not cancel before then.
+- **Prices.** The exact price is shown in the App and on the App Store at the time of purchase. Prices vary by country, currency and applicable taxes. Prices may change for future renewal periods; Apple tells you in advance and, where the law requires, asks for your consent. If you do not accept a new price, cancel before it takes effect and you will not be charged it.
+- **Payment.** Payment is charged to your Apple Account when you confirm the purchase. If the plan starts with a free trial, the first charge is made at the end of the trial unless you cancel at least 24 hours before the trial ends.
 - **Automatic renewal.** The subscription renews automatically for the same period unless you cancel it at least 24 hours before the end of the current period. Your Apple Account is charged for the renewal within 24 hours before the current period ends.
 - **Managing and cancelling.** You can manage or cancel the subscription at any time in your device's Settings, under your Apple Account, in Subscriptions. Deleting the App does not cancel a subscription.
-- **Free trial.** Any unused part of a free trial is forfeited when you purchase a subscription. Eligibility for an introductory offer is decided by Apple.
+- **Free trial.** Any unused part of a free trial is forfeited when you purchase a subscription.
 - **Offer codes.** Offer codes, where available, are redeemed through Apple and are subject to Apple's conditions.
 - **Restore Purchases.** If you reinstall the App or use a new device signed in to the same Apple Account, use Restore Purchases to regain access.
-- **Refunds.** All payments are processed by Apple. Refund requests must be made to Apple, for example at reportaproblem.apple.com. The Developer cannot issue refunds and does not receive your payment details.
+- **Right of withdrawal.** The purchase contract is concluded with Apple. If you are a consumer in the European Union you have a 14-day right to withdraw from the purchase, exercised with Apple under the Apple Media Services Terms (for example at reportaproblem.apple.com). Apple tells you at purchase if, and from when, that right is lost because access starts immediately.
+- **Refunds.** Payments are processed by Apple, which also handles refund requests (reportaproblem.apple.com); I never see your payment details. If Apple refuses a refund you believe you are entitled to under mandatory consumer law, contact me (section 14).
 
-## 7. Maintenance and support
+## 6. Conformity, updates and warranty
 
-The Developer alone is responsible for providing maintenance and support for the App, as required by law or as described in these Terms. Apple has no obligation to provide any maintenance or support for the App. Support is provided on a best-effort basis by email at the address in section 16; no response time is guaranteed.
+If you are a consumer, the App must conform to our contract, as EU and Polish consumer law requires (Directive (EU) 2019/770; Polish Consumer Rights Act, chapter 5b). During your subscription I will supply the updates, including security updates, needed to keep the App in conformity. iOS tells you when an update is available; if you choose not to install it, I am not responsible for problems caused only by that. If the App does not conform, you have the statutory remedies: bringing it into conformity, a price reduction, or ending the contract with a refund for the affected period.
+
+Beyond those statutory rights, I give no additional warranties. In particular, I do not promise that the App works with every GitLab version or configuration beyond what section 1 states, or that it is free of every error.
+
+## 7. Support and complaints
+
+I answer support questions by email (section 14) as quickly as I can, but I cannot promise a response time. A complaint that the App does not conform to our contract (in Polish: *reklamacja*) is answered within 14 days of receipt, as Polish law requires. I alone am responsible for support for the App; Apple has no obligation to provide any maintenance or support for it.
 
 ## 8. Third-party services and open-source software
 
-The App relies on services the Developer does not control: the GitLab server you connect to, Apple's App Store and in-app purchase system, and the optional analytics service described in the Privacy Policy. Those services are subject to their own terms, and their availability affects the App. You are also responsible for any data charges from your carrier.
+The App relies on services I do not control: the GitLab server you connect to, Apple's App Store and in-app purchase system, and the optional analytics service described in the Privacy Policy. You must comply with any applicable third-party terms of agreement when using the App, including the terms of the GitLab instance you connect to, Apple's terms for the App Store and in-app purchases, and your wireless carrier's data service agreement. The availability of those services affects the App, and you are responsible for any data charges from your carrier.
 
-The App includes open-source software, including Highlightr and the PostHog iOS SDK, used under their respective licences, which are reproduced in the App's source distribution or available from their authors.
+The App includes open-source software, including Highlightr and the PostHog iOS SDK, used under their respective licences. Their licence texts are available from their authors at github.com/raspu/Highlightr and github.com/PostHog/posthog-ios.
 
-## 9. Warranty
+## 9. Liability
 
-The App is provided "as is" and "as available", without warranties of any kind, express or implied, to the fullest extent permitted by applicable law. The Developer does not warrant that the App will be error-free, uninterrupted, or compatible with every GitLab version or configuration.
+I am liable for damage caused by my fault under general law. I am not responsible for:
 
-If the App fails to conform to any applicable warranty that cannot be excluded, you may notify Apple, and Apple will refund the purchase price you paid for the App, if any. To the maximum extent permitted by law, Apple has no other warranty obligation whatsoever with respect to the App. Any other claims, losses, liabilities, damages, costs or expenses attributable to a failure to conform to a warranty are the Developer's sole responsibility.
+- the availability, behaviour or data of any GitLab server;
+- the results of actions you deliberately take through the App, such as merging or approving (they are your actions, exactly as on the GitLab website; see section 1);
+- loss caused by your breach of these Terms or of GitLab's rules.
 
-## 10. Product claims
+If you are not a consumer, my total liability for all claims relating to the App is limited to the amount you paid for the App in the twelve months before the event giving rise to the claim, and I am not liable for indirect or consequential loss, lost profits or lost data.
 
-The Developer, not Apple, is responsible for addressing any claims by you or any third party relating to the App or your possession or use of it, including:
+Nothing in these Terms limits liability for intentional or grossly negligent conduct, for death or personal injury, or any other liability that cannot be limited by law.
 
-- product liability claims;
-- any claim that the App fails to conform to an applicable legal or regulatory requirement; and
-- claims arising under consumer protection, privacy or similar legislation.
+## 10. Ending the licence
 
-## 11. Intellectual property
+You may stop using the App at any time: sign out (which deletes the saved token), revoke the App's access in GitLab, and delete the App. Cancelling a subscription is done through Apple as described in section 5.
 
-The App, excluding third-party and open-source components, is the Developer's intellectual property. In the event of any third-party claim that the App or your possession and use of it infringes that third party's intellectual property rights, the Developer, not Apple, is solely responsible for the investigation, defence, settlement and discharge of that claim.
+If you materially breach these Terms I may end your licence by notice to you, and the App may stop working for you. Any refund for a prepaid period is handled with Apple (section 5). Sections 6, 9 and 12 to 15 continue to apply after the licence ends.
 
-## 12. Limitation of liability
+## 11. Changes to these Terms
 
-To the fullest extent permitted by applicable law:
+I may change these Terms for a valid reason: a change in the law, in Apple's or GitLab's requirements, a new or removed feature, or a security need. The new version is published at this address with its effective date at least 14 days before it applies, and material changes are also listed in the App's release notes on the App Store. If you do not accept a change, cancel your subscription before the effective date. A change that reduces what the App does will not apply to a period you have already paid for.
 
-- the Developer is not liable for any indirect, incidental, special, consequential or punitive damages, or for loss of data, revenue or profits, arising from or related to the App;
-- the Developer is not liable for the consequences of actions you perform through the App on a GitLab server, such as merging, approving, commenting or running pipelines, nor for the availability, behaviour or data of any GitLab server;
-- the Developer's total liability for all claims relating to the App is limited to the amount you paid for the App in the twelve months before the event giving rise to the claim.
+## 12. Governing law and disputes
 
-Nothing in these Terms excludes or limits liability that cannot be excluded or limited by law, including liability for death or personal injury caused by negligence, or for fraud. If you are a consumer, you keep all mandatory rights under the law of your country of residence.
+These Terms are governed by the laws of Poland. If you are a consumer resident in another country, you also benefit from any mandatory provisions of the law of that country, and you may bring proceedings in its courts.
 
-## 13. Legal compliance
+If we cannot resolve a dispute between us, you may use out-of-court consumer dispute resolution. In Poland the competent bodies are the Trade Inspection (Wojewódzki Inspektorat Inspekcji Handlowej w Krakowie) and the municipal or district consumer ombudsman (*rzecznik konsumentów*); see uokik.gov.pl. I decide case by case whether to take part and will tell you in my reply to your complaint.
 
-You represent and warrant that you are not located in a country that is subject to a United States Government embargo or that has been designated by the United States Government as a "terrorist supporting" country, and that you are not listed on any United States Government list of prohibited or restricted parties.
+## 13. Terms Apple requires
 
-## 14. Termination
+Apple requires the following terms in every custom licence agreement for an App Store app.
 
-You may stop using the App at any time by revoking its access in GitLab and deleting it from your device. Cancelling a subscription is done through Apple as described in section 6.
+- **Acknowledgement.** These Terms are between you and me only, not with Apple Inc. or any of its subsidiaries ("Apple"). Apple is not a party to these Terms. I, not Apple, am solely responsible for the App and its content. These Terms do not grant usage rights that conflict with the Usage Rules in the Apple Media Services Terms and Conditions, which you have had the opportunity to review; where they conflict, the Apple Usage Rules prevail.
+- **Maintenance and support.** I alone am responsible for providing maintenance and support for the App, as described in section 7. Apple has no obligation whatsoever to furnish any maintenance or support for the App.
+- **Warranty.** If the App fails to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) you paid for the App or the current subscription period. To the maximum extent permitted by law, Apple has no other warranty obligation whatsoever with respect to the App. Any other claims, losses, liabilities, damages, costs or expenses attributable to a failure to conform to a warranty are my sole responsibility.
+- **Product claims.** I, not Apple, am responsible for addressing any claims by you or any third party relating to the App or your possession or use of it, including product liability claims, any claim that the App fails to conform to a legal or regulatory requirement, and claims arising under consumer protection, privacy or similar legislation.
+- **Intellectual property claims.** If a third party claims that the App or your possession and use of it infringes that third party's intellectual property rights, I, not Apple, am solely responsible for the investigation, defence, settlement and discharge of that claim.
+- **Legal compliance.** You confirm that you are not located in a country that is subject to a United States Government embargo or that has been designated by the United States Government as a "terrorist supporting" country, and that you are not listed on any United States Government list of prohibited or restricted parties.
+- **Third-party beneficiary.** Apple and Apple's subsidiaries are third-party beneficiaries of these Terms. Upon your acceptance of these Terms, Apple has the right, and is deemed to have accepted the right, to enforce these Terms against you as a third-party beneficiary.
 
-The Developer may suspend or terminate your licence if you materially breach these Terms. Sections 9 to 13 and 15 to 18 survive termination.
+## 14. Contact
 
-## 15. Changes to these Terms
+Dmytro Yantsybaiev  
+[OWNER: street and number]  
+[OWNER: postal code] Kraków, Poland  
+[OWNER: if registered: "Business registered in the Polish CEIDG register, NIP …"; otherwise delete this line]  
+Email: d.yantsybaiev@gmail.com  
+Telephone: [OWNER: number, or delete this line]
 
-The Developer may update these Terms from time to time. The current version is always published at this address with its effective date. Material changes will also be announced in the App or on the App Store page where reasonably possible. Continuing to use the App after a change takes effect means you accept the updated Terms.
+Use this address for questions, complaints and legal notices.
 
-## 16. Developer contact
+## 15. General
 
-Dmytro Yantsybaiev
-Cracow, Poland
-Email: d.yantsybaiev@gmail.com
-
-Questions, complaints or claims concerning the App should be directed to the Developer at this address.
-
-## 17. Governing law
-
-These Terms are governed by the laws of Poland, without regard to its conflict-of-law rules. If you are a consumer resident in another country, you also benefit from any mandatory provisions of the law of that country, and you may bring proceedings in its courts. Consumers in the European Union may also use the European Commission's online dispute resolution platform.
-
-## 18. Third-party beneficiary
-
-Apple and Apple's subsidiaries are third-party beneficiaries of these Terms. Upon your acceptance of these Terms, Apple has the right, and is deemed to have accepted the right, to enforce these Terms against you as a third-party beneficiary.
-
-## 19. General
-
-If any provision of these Terms is held invalid, the remaining provisions remain in effect. The Developer's failure to enforce a provision is not a waiver of it. These Terms, together with the Privacy Policy, are the entire agreement between you and the Developer concerning the App.
+If any provision of these Terms is held invalid, the remaining provisions remain in effect. My failure to enforce a provision is not a waiver of it. These Terms, together with the information shown on the App Store page before purchase, are the whole agreement between us about the App. The Privacy Policy describes how data is handled and is provided for your information; it is not part of this agreement.
