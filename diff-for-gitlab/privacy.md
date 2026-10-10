@@ -110,8 +110,7 @@ I may update this policy as the App changes. The current version is always at th
 
 ## 12. Contact
 
-Dmytro Yantsybaiev  
-[OWNER: street and number]  
-[OWNER: postal code] Kraków, Poland  
-Email: d.yantsybaiev@gmail.com  
-Telephone: [OWNER: number, or delete this line]
+Dmytro Yantsybaiev, Kraków, Poland  
+Email: d.yantsybaiev@gmail.com
+
+My full business details (address, telephone, NIP) are in the [Terms of Use](../terms/#14-contact).

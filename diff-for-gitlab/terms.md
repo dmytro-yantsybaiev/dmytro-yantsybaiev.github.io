@@ -119,12 +119,12 @@ Apple requires the following terms in every custom licence agreement for an App 
 
 ## 14. Contact
 
-Dmytro Yantsybaiev  
-[OWNER: street and number]  
-[OWNER: postal code] Kraków, Poland  
-[OWNER: if registered: "Business registered in the Polish CEIDG register, NIP …"; otherwise delete this line]  
+Dmytro Yantsybaiev, trading as IT DMYTRO YANTSYBAIEV  
+ul. Lubostroń, nr. 37, lok. 93  
+30-383 Kraków, Małopolskie, Poland  
+Sole proprietorship registered in the Polish Central Register of Business Activity (CEIDG), NIP 8971946712  
 Email: d.yantsybaiev@gmail.com  
-Telephone: [OWNER: number, or delete this line]
+Telephone: +48 882040126
 
 Use this address for questions, complaints and legal notices.
 
