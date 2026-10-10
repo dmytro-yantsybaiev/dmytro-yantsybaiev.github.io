@@ -5,7 +5,7 @@ permalink: /diff-for-gitlab/terms/
 
 # Diff for GitLab — Terms of Use
 
-**Effective date:** 6 October 2026
+**Effective date:** 10 October 2026
 
 These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who publishes the iOS application **Diff for GitLab** ("the App") as a trader ("I", "me"). By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
 
@@ -73,9 +73,9 @@ I answer support questions by email (section 14) as quickly as I can, but I cann
 
 ## 8. Third-party services and open-source software
 
-The App relies on services I do not control: the GitLab server you connect to, Apple's App Store and in-app purchase system, and the optional analytics service described in the Privacy Policy. You must comply with any applicable third-party terms of agreement when using the App, including the terms of the GitLab instance you connect to, Apple's terms for the App Store and in-app purchases, and your wireless carrier's data service agreement. The availability of those services affects the App, and you are responsible for any data charges from your carrier.
+The App relies on services I do not control: the GitLab server you connect to, and Apple's App Store and in-app purchase system. You must comply with any applicable third-party terms of agreement when using the App, including the terms of the GitLab instance you connect to, Apple's terms for the App Store and in-app purchases, and your wireless carrier's data service agreement. The availability of those services affects the App, and you are responsible for any data charges from your carrier.
 
-The App includes open-source software, including Highlightr and the PostHog iOS SDK, used under their respective licences. Their licence texts are available from their authors at github.com/raspu/Highlightr and github.com/PostHog/posthog-ios.
+The App includes open-source software, including Highlightr, used under its licence. The licence text is available from its author at github.com/raspu/Highlightr.
 
 ## 9. Liability
 
