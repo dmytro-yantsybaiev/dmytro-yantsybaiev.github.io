@@ -9,7 +9,7 @@ permalink: /diff-for-gitlab/terms/
 
 These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who publishes the iOS application **Diff for GitLab™** ("the App") as a trader ("I", "me"). By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
 
-In short: the App is an independent client for GitLab. It runs on your device with your own GitLab credentials, which never leave your device except to go to your GitLab server. Full access is sold as an auto-renewing subscription through Apple. I am not GitLab Inc. and I am not Apple. If you are a consumer, nothing in these Terms takes away rights that the law of your country gives you.
+In short: the App is an independent client for GitLab. It runs on your device with your own GitLab credentials, which never leave your device except to go to your GitLab server. Full access is sold as an auto-renewing subscription through Apple. I am not GitLab Inc. and I am not Apple. If you are a consumer, nothing in these Terms takes away rights that the law of your country gives you. A sole trader protected by Article 385⁵ of the Polish Civil Code is treated as a consumer in sections 5, 6, 7, 9 and 11.
 
 ## 1. What the App does and what it needs
 
@@ -29,7 +29,7 @@ Your use of GitLab itself, whether gitlab.com or a self-managed instance, is gov
 
 To use the App you sign in to a GitLab server with a personal access token that you create, or with OAuth. Either way the App needs GitLab's `api` scope, which is what allows approving, merging, commenting and running pipelines.
 
-You are responsible for keeping your token and your device secure, and for making sure you are allowed to use the GitLab instance you connect to under its rules and any policies of your employer or organisation. You can withdraw the App's access at any time by revoking the token or the authorised application in GitLab. The Privacy Policy describes how the App stores and uses your credentials.
+You must be old enough to enter a binding contract where you live, or have your parent's or guardian's consent. You are responsible for keeping your token and your device secure, and for making sure you are allowed to use the GitLab instance you connect to under its rules and any policies of your employer or organisation. You can withdraw the App's access at any time by revoking the token or the authorised application in GitLab. The Privacy Policy describes how the App stores and uses your credentials.
 
 ## 4. Licence
 
@@ -58,18 +58,18 @@ After the introductory screens, using the App requires an active subscription. T
 - **Free trial.** Any unused part of a free trial is forfeited when you purchase a subscription.
 - **Offer codes.** Offer codes, where available, are redeemed through Apple and are subject to Apple's conditions.
 - **Restore Purchases.** If you reinstall the App or use a new device signed in to the same Apple Account, use Restore Purchases to regain access.
-- **Right of withdrawal.** The purchase contract is concluded with Apple. If you are a consumer in the European Union you have a 14-day right to withdraw from the purchase, exercised with Apple under the Apple Media Services Terms (for example at reportaproblem.apple.com). Apple tells you at purchase if, and from when, that right is lost because access starts immediately.
-- **Refunds.** Payments are processed by Apple, which also handles refund requests (reportaproblem.apple.com); I never see your payment details. If Apple refuses a refund you believe you are entitled to under mandatory consumer law, contact me (section 14).
+- **Right of withdrawal.** The purchase contract is concluded with Apple. If you are a consumer in the European Union, or in the United Kingdom under the Consumer Contracts Regulations 2013, your right to cancel the purchase within 14 days is provided by Apple under the Apple Media Services Terms; request it at reportaproblem.apple.com.
+- **Refunds.** Payments are processed by Apple, which also handles refund requests (reportaproblem.apple.com); I never see your payment details. This does not limit your rights under mandatory consumer law. You can also contact me directly (section 14) about a refund you believe you are owed.
 
 ## 6. Conformity, updates and warranty
 
-If you are a consumer, the App must conform to our contract, as EU and Polish consumer law requires (Directive (EU) 2019/770; Polish Consumer Rights Act, chapter 5b). During your subscription I will supply the updates, including security updates, needed to keep the App in conformity. iOS tells you when an update is available; if you choose not to install it, I am not responsible for problems caused only by that. If the App does not conform, you have the statutory remedies: bringing it into conformity, a price reduction, or ending the contract with a refund for the affected period.
+If you are a consumer, the App must conform to our contract, as EU and Polish consumer law requires (Directive (EU) 2019/770; Polish Consumer Rights Act, chapter 5b). During your subscription I will supply the updates, including security updates, needed to keep the App in conformity. iOS tells you when an update is available; if you choose not to install it, I am not responsible for problems caused only by that. If the App does not conform, you have the statutory remedies: bringing it into conformity, a price reduction, or ending the contract with a refund for the affected period. If you are a consumer in the United Kingdom, you have the rights for digital content under the Consumer Rights Act 2015, including a remedy if the App damages your device or other digital content because I did not use reasonable care and skill.
 
 Beyond those statutory rights, I give no additional warranties. In particular, I do not promise that the App works with every GitLab version or configuration beyond what section 1 states, or that it is free of every error.
 
 ## 7. Support and complaints
 
-I answer support questions by email (section 14) as quickly as I can, but I cannot promise a response time. A complaint that the App does not conform to our contract (in Polish: *reklamacja*) is answered within 14 days of receipt, as Polish law requires. I alone am responsible for support for the App; Apple has no obligation to provide any maintenance or support for it.
+I answer support questions by email (section 14) as quickly as I can, but I cannot promise a response time. A complaint that the App does not conform to our contract (in Polish: *reklamacja*) is answered within 14 days of receipt, as Polish law requires.
 
 ## 8. Third-party services and open-source software
 
@@ -95,17 +95,19 @@ Nothing in these Terms limits liability for intentional or grossly negligent con
 
 You may stop using the App at any time: sign out (which deletes the saved token), revoke the App's access in GitLab, and delete the App. Cancelling a subscription is done through Apple as described in section 5.
 
-If you materially breach these Terms I may end your licence by notice to you, and the App may stop working for you. Any refund for a prepaid period is handled with Apple (section 5). Sections 6, 9 and 12 to 15 continue to apply after the licence ends.
+If you materially breach these Terms I may end your licence by a notice shown in the App, and the App may stop working for you. Sections 6, 9 and 12 to 15 continue to apply after the licence ends.
 
 ## 11. Changes to these Terms
 
-I may change these Terms for a valid reason: a change in the law, in Apple's or GitLab's requirements, a new or removed feature, or a security need. The new version is published at this address with its effective date at least 14 days before it applies, and material changes are also listed in the App's release notes on the App Store. If you do not accept a change, cancel your subscription before the effective date. A change that reduces what the App does will not apply to a period you have already paid for.
+I may change these Terms for a valid reason: a change in the law, in Apple's or GitLab's requirements, a new or removed feature, or a security need. I will show you changed Terms in the App, where you can save them, before they apply. A change that is to your disadvantage applies to you only from the first renewal after I have shown it to you; if you do not accept it, cancel before then.
+
+I may change the App for the reasons above, at no extra cost to you. If a change to the App harms your access to it or use of it more than in a minor way, I will tell you in advance, in a form you can save, and you may end the contract within 30 days of the change (or of my notice, if later) and get back the price for the rest of the paid period within 14 days of your notice. This does not apply if you can keep using the unchanged version at no cost and it still conforms to our contract.
 
 ## 12. Governing law and disputes
 
-These Terms are governed by the laws of Poland. If you are a consumer resident in another country, you also benefit from any mandatory provisions of the law of that country, and you may bring proceedings in its courts.
+These Terms are governed by the laws of Poland. If you are a consumer resident in another country, you also benefit from any mandatory provisions of the law of that country, and you may bring proceedings in its courts where the law of that country allows it.
 
-If we cannot resolve a dispute between us, you may use out-of-court consumer dispute resolution. In Poland the competent bodies are the Trade Inspection (Wojewódzki Inspektorat Inspekcji Handlowej w Krakowie) and the municipal or district consumer ombudsman (*rzecznik konsumentów*); see uokik.gov.pl. I decide case by case whether to take part and will tell you in my reply to your complaint.
+If we cannot resolve a dispute between us, you may use out-of-court consumer dispute resolution. In Poland the competent bodies are the Trade Inspection (Wojewódzki Inspektorat Inspekcji Handlowej w Krakowie) and the municipal or district consumer ombudsman (*rzecznik konsumentów*); see uokik.gov.pl. I decide case by case whether to take part and will tell you in my reply to your complaint. Consumers elsewhere in the EU, Iceland or Norway can get free help from the European Consumer Centre in their own country (ECC-Net). If you are a consumer living in the EU, I may bring proceedings against you only in the courts of the country where you live.
 
 ## 13. Terms Apple requires
 
@@ -166,7 +168,7 @@ THE SOFTWARE.
 
 ### highlight.js
 
-github.com/highlightjs/highlight.js, included in Highlightr, BSD 3-Clause License.
+github.com/highlightjs/highlight.js, included in Highlightr, BSD 3-Clause License. The bundled build (11.11.1) also states: Copyright (c) 2006-2025 Josh Goebel and other contributors.
 
 ```
 BSD 3-Clause License

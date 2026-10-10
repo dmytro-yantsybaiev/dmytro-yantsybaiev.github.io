@@ -14,16 +14,17 @@ This policy explains what the iOS app **Diff for GitLab™** ("the App") does wi
 - Your GitLab token is stored only in your device's Keychain and is sent only to the GitLab server you signed in to. It never reaches me.
 - Your code, merge requests, pipelines and other GitLab content travel only between your device and your GitLab server. I have no access to them.
 - Purchases are handled by Apple. I never see your payment details.
-- The App sends nothing to me. It talks only to your GitLab server and to Apple.
+- The App sends nothing to me. It talks only to your GitLab server and to Apple. Legal pages you open from it, like this one, load from GitHub Pages (section 10).
 - No advertising, no tracking across apps or websites, no selling or sharing of data with data brokers.
 
-For data that stays on your device, I set the rules but never receive it. My obligations as controller arise only for email you send me (section 6).
+Data in section 1 is handled by the App on your device under your control; I never receive it. Emailing me is optional. A GitLab token is needed to use the App, but it never reaches me. I make no automated decisions or profiles about you.
 
 | Processing | Legal basis | Who receives it | Kept for |
 |---|---|---|---|
 | Checking your subscription (section 4) | Performance of the contract, Art. 6(1)(b) | Apple (independent controller) | While the App is installed |
-| Email you send me (section 6) | Legitimate interest in answering you, or the contract if you subscribe | Google (Gmail) | 24 months after the last message |
-| Everything on your device (section 1) | Not received by me | Nobody | Until you sign out or delete the App |
+| Email you send me (section 6) | Legitimate interest in answering you, Art. 6(1)(f); performance of the contract, Art. 6(1)(b), when it concerns your subscription | Google (Gmail) | 24 months after the last message |
+| Everything on your device (section 1) | Performance of the contract, Art. 6(1)(b), to provide the App you use; for other people's names and avatars, legitimate interest, Art. 6(1)(f) | No one but your GitLab server (section 2); never me | Until you sign out or delete the App (unused cache entries after 30 days) |
+| Crash reports and usage statistics from Apple (section 5) | Legitimate interest in fixing faults, Art. 6(1)(f) | Apple | Only as long as I need them to fix the fault |
 
 ## 1. Data stored on your device
 
@@ -45,7 +46,7 @@ The App is a client for GitLab. Every request it makes goes to the GitLab server
 
 - The App never performs a write action on GitLab without you tapping the control for it.
 - People's avatars are loaded only from your own GitLab server, never from Gravatar or any other third-party image service. Project avatars are not loaded at all.
-- When you type a self-managed server address, the App makes one request without credentials to that server's `/api/v4/user` endpoint to confirm it is a GitLab server before asking for a token.
+- When you type a self-managed server address, the App makes a request without credentials, for each address you enter, to that server's `/api/v4/user` endpoint to confirm it is a GitLab server before asking for a token.
 - Network responses and any cookies your GitLab server sets are kept in memory only, never written to disk, and are discarded when you sign out or the App quits. The App's own offline cache (section 1) is the only copy kept on your device.
 - When you open Search, the App asks iOS whether the clipboard holds a web link, without reading it, so it can offer a Paste button. The clipboard's contents are read only when you tap Paste, and are not kept.
 
@@ -67,11 +68,13 @@ The App does not track you across other companies' apps or websites, does not sh
 
 Apple's privacy label for the App is **Data Not Collected**.
 
-If you have turned on *Share With App Developers* in your device's privacy settings, Apple may give me crash reports and aggregated usage statistics for the App. This is Apple's feature, controlled in iOS settings, not by the App, and these reports do not identify you.
+If you have turned on *Share With App Developers* in your device's privacy settings, Apple may give me crash reports and aggregated usage statistics for the App. This is Apple's feature, controlled in iOS settings, not by the App. Apple does not give me your identity with them. I use them to fix faults, on the basis of my legitimate interest (Art. 6(1)(f)), and keep them only as long as I need them to fix the fault. You can stop them at any time by turning off *Share With App Developers*.
+
+Neither the App nor this site tracks you, so Do Not Track signals change nothing. I do not sell or share personal information as defined by the California Consumer Privacy Act.
 
 ## 6. Email you send me
 
-If you email me, I keep your address and message to answer you and to keep a record of the conversation. Mail is hosted by Google (Gmail), which may process it in the United States under Google's terms and the EU Standard Contractual Clauses. I delete support threads 24 months after the last message. This is the only data through which I could identify you.
+If you email me, I keep your address and message to answer you and to keep a record of the conversation. Mail is hosted by Google (Gmail) under Google's Privacy Policy and may be processed in the United States by Google LLC, which is certified under the EU–U.S. Data Privacy Framework and its UK Extension. I delete support threads 24 months after the last message, or later only if I need them to establish or defend a legal claim, and only until it is resolved. This is the only data through which I could identify you.
 
 ## 7. Security
 
@@ -79,19 +82,21 @@ If you email me, I keep your address and message to answer you and to keep a rec
 - Tokens are protected by the iOS Keychain and are readable only while the device is unlocked.
 - Cached GitLab data is protected by iOS file protection until the device is first unlocked after a restart.
 
-No method of storage or transmission is completely secure. If you believe your token has been exposed, revoke it in GitLab. If I learn of a breach affecting your data, I will notify the Polish supervisory authority within 72 hours and, where the law requires, you, through the App Store page or the App's release notes, since I hold no contact details for users.
+No method of storage or transmission is completely secure. If you believe your token has been exposed, revoke it in GitLab. If I learn of a breach affecting your data, I will notify the Polish supervisory authority within 72 hours where Art. 33 GDPR requires it and, where Art. 34 requires it, you: by email if you have written to me, otherwise through the App Store page or the App's release notes.
 
 ## 8. Children
 
-The App is a developer tool for people who hold a GitLab account and is not directed at children. I do not knowingly collect personal data from children under 16.
+The App is a developer tool for people who hold a GitLab account and is not directed at children. I do not knowingly collect personal data from children under 16. If you believe a child has emailed me, tell me and I will delete the message.
 
 ## 9. Your rights
 
 Under the GDPR and similar laws you may have the right to access, correct or delete personal data, to object to or restrict processing, to data portability, and to complain to a supervisory authority.
 
-The only personal data I hold about you is email you send me (section 6). To exercise any of these rights for it, email me. Data that stays on your device never reaches me: you control it by signing out or deleting the App.
+The only personal data I hold that could identify you is email you send me (section 6). To exercise any of these rights for it, email me. Data that stays on your device never reaches me: you control it by signing out or deleting the App.
 
-You may complain to the supervisory authority in the EU country where you live or work. For me, that is the President of the Personal Data Protection Office in Poland (Prezes Urzędu Ochrony Danych Osobowych, uodo.gov.pl).
+**Right to object.** Where I rely on legitimate interest (answering your email, or crash reports), you can object at any time by emailing me, and I will stop unless I have compelling legitimate grounds that override your interests, or need the data for a legal claim. You can also stop crash reports at any time by turning off *Share With App Developers*.
+
+You may complain to the supervisory authority in the EU country where you live or work. For me, that is the President of the Personal Data Protection Office in Poland (Prezes Urzędu Ochrony Danych Osobowych, uodo.gov.pl). If you are in the United Kingdom, you may complain to the Information Commissioner's Office (ico.org.uk).
 
 Data held by your GitLab provider or by Apple is subject to their policies; please contact them for requests about that data.
 
@@ -101,7 +106,7 @@ Data held by your GitLab provider or by Apple is subject to their policies; plea
 |---|---|
 | GitLab Inc. (gitlab.com) or the operator of your self-managed instance | Independent controller: receives every request the App makes as you and governs your GitLab data |
 | Apple Inc. | Independent controller for in-app purchases, subscriptions and your Apple Account; distributes the App |
-| Google (Gmail) | Hosts my email, including email you send me (section 6) |
+| Google (Gmail; Google LLC in the United States) | Hosts my email, including email you send me (section 6) |
 | GitHub Inc. | Hosts this page on GitHub Pages; GitHub may log visitor IP addresses under its own privacy statement |
 
 I do not share your data with anyone else.
