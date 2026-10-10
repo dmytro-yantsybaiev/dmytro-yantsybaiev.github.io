@@ -75,7 +75,7 @@ I answer support questions by email (section 14) as quickly as I can, but I cann
 
 The App relies on services I do not control: the GitLab server you connect to, and Apple's App Store and in-app purchase system. You must comply with any applicable third-party terms of agreement when using the App, including the terms of the GitLab instance you connect to, Apple's terms for the App Store and in-app purchases, and your wireless carrier's data service agreement. The availability of those services affects the App, and you are responsible for any data charges from your carrier.
 
-The App includes open-source software, including Highlightr, used under its licence. The licence text is available from its author at github.com/raspu/Highlightr.
+The App includes open-source software: Highlightr and highlight.js, which Highlightr bundles. They are used under their licences, whose notices are reproduced in full under *Open-source notices* at the end of these Terms. Those licences cover only that software and do not change these Terms.
 
 ## 9. Liability
 
@@ -131,3 +131,69 @@ Use this address for questions, complaints and legal notices.
 ## 15. General
 
 If any provision of these Terms is held invalid, the remaining provisions remain in effect. My failure to enforce a provision is not a waiver of it. These Terms, together with the information shown on the App Store page before purchase, are the whole agreement between us about the App. The Privacy Policy describes how data is handled and is provided for your information; it is not part of this agreement.
+
+## Open-source notices
+
+The App contains the following open-source software. Each notice below is reproduced as its authors require.
+
+### Highlightr
+
+github.com/raspu/Highlightr, MIT License.
+
+```
+Copyright (c) 2016 Illanes, Juan Pablo <jpillaness+highlightr@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+```
+
+### highlight.js
+
+github.com/highlightjs/highlight.js, included in Highlightr, BSD 3-Clause License.
+
+```
+BSD 3-Clause License
+
+Copyright (c) 2006, Ivan Sagalaev.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+
+* Neither the name of the copyright holder nor the names of its
+  contributors may be used to endorse or promote products derived from
+  this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
