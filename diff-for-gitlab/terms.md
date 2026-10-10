@@ -3,13 +3,15 @@ title: Terms of Use
 permalink: /diff-for-gitlab/terms/
 ---
 
+*Polska wersja: [Warunki korzystania](../pl/terms/)*
+
 # Diff for GitLab — Terms of Use
 
 **Effective date:** 10 October 2026
 
 These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who publishes the iOS application **Diff for GitLab™** ("the App") as a trader ("I", "me"). By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
 
-If you are a consumer, nothing in these Terms takes away rights that the law of your country gives you. A sole trader protected by Article 385⁵ of the Polish Civil Code is treated as a consumer in sections 5, 6, 7, 9 and 11.
+If you are a consumer, nothing in these Terms takes away rights that the law of your country gives you. A sole trader protected by Article 385⁵ of the Polish Civil Code and Article 7aa of the Polish Consumer Rights Act is treated as a consumer in sections 5, 6, 7, 9 and 11.
 
 ## 1. What the App does and what it needs
 
@@ -60,7 +62,7 @@ After the introductory screens, using the App requires an active subscription. T
 
 ## 6. Statutory rights and warranty
 
-If you are a consumer, your statutory rights for digital content are not affected.
+If you are a consumer, your statutory rights for digital content and digital services are not affected.
 
 Beyond those statutory rights, I give no additional warranties. In particular, I do not promise that the App works with every GitLab version or configuration beyond what section 1 states, or that it is free of every error.
 
@@ -84,7 +86,7 @@ I am liable for damage caused by my fault under general law. I am not responsibl
 
 These points do not cover loss caused by a defect in the App itself, for example the App performing an action you did not request, or a different one.
 
-If you are neither a consumer nor a business owner with consumer rights under Polish law (Article 385⁵ of the Civil Code), my total liability for all claims relating to the App is limited to the amount you paid for the App in the twelve months before the event giving rise to the claim, and I am not liable for indirect or consequential loss, lost profits or lost data.
+If you are neither a consumer nor a sole trader protected by Article 385⁵ of the Polish Civil Code, my total liability for all claims relating to the App is limited to the amount you paid for the App in the twelve months before the event giving rise to the claim, and I am not liable for indirect or consequential loss, lost profits or lost data.
 
 Nothing in these Terms limits liability for intentional or grossly negligent conduct, for death or personal injury, or any other liability that cannot be limited by law.
 
@@ -98,7 +100,7 @@ If you materially breach these Terms I may end your licence by a notice shown in
 
 I may change these Terms for a valid reason: a change in the law, in Apple's or GitLab's requirements, a new or removed feature, or a security need. I will show you changed Terms in the App, where you can save them, before they apply. A change that is to your disadvantage applies to you only from the first renewal after I have shown it to you; if you do not accept it, cancel before then.
 
-I may change the App for the reasons above, at no extra cost to you. If a change harms your access to it or use of it more than in a minor way, you may end the contract under Article 43q of the Polish Consumer Rights Act, unless you can keep using the unchanged version at no cost.
+I may change the App for the reasons above, at no extra cost to you. If a change harms your access to it or use of it more than in a minor way, you may terminate the contract without notice under Article 43q(2) of the Polish Consumer Rights Act, unless you can keep using the unchanged version at no cost and it still conforms to our contract.
 
 ## 12. Governing law and disputes
 
@@ -119,7 +121,7 @@ Apple requires the following terms in every custom licence agreement for an App 
 ## 14. Contact
 
 Dmytro Yantsybaiev, trading as IT DMYTRO YANTSYBAIEV  
-ul. Lubostroń, nr. 37, lok. 93  
+ul. Lubostroń, nr 37, lok. 93  
 30-383 Kraków, Małopolskie, Poland  
 Sole proprietorship registered in the Polish Central Register of Business Activity (CEIDG), NIP 8971946712  
 Email: d.yantsybaiev@gmail.com  
@@ -130,6 +132,8 @@ Use this address for questions, complaints and legal notices.
 ## 15. General
 
 If any provision of these Terms is held invalid, the remaining provisions remain in effect. My failure to enforce a provision is not a waiver of it. If you are neither a consumer nor a sole trader protected by Article 385⁵ of the Polish Civil Code, these Terms, together with the information shown on the App Store page before purchase, are the whole agreement between us about the App. The Privacy Policy describes how data is handled and is provided for your information; it is not part of this agreement.
+
+**Language versions.** These Terms are available in English and Polish. For consumers and sole traders protected by Article 385⁵ of the Polish Civil Code who live in Poland when the contract is made, the Polish version is binding. In all other cases the English version is binding and the Polish version is for information.
 
 ## Open-source notices
 

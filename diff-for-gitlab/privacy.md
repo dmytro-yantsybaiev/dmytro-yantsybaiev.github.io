@@ -3,11 +3,13 @@ title: Privacy Policy
 permalink: /diff-for-gitlab/privacy/
 ---
 
+*Polska wersja: [Polityka prywatności](../pl/privacy/)*
+
 # Diff for GitLab — Privacy Policy
 
 **Effective date:** 10 October 2026
 
-This policy explains what the iOS app **Diff for GitLab™** ("the App") does with your data. It is an independent app, not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions. The App is made and published by Dmytro Yantsybaiev, a software developer based in Kraków, Poland ("I", "me"), who is the data controller for the processing described here. Contact details are in section 12.
+This policy explains what the iOS app **Diff for GitLab™** ("the App") does with your data. It is an independent app, not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions. The App is made and published by Dmytro Yantsybaiev, a software developer based in Kraków, Poland ("I", "me"), who is the data controller for the processing listed in the table below. Contact details are in section 12.
 
 ## Summary
 
@@ -23,8 +25,8 @@ Data in section 1 is handled by the App on your device under your control; I nev
 |---|---|---|---|
 | Checking your subscription (section 4) | Performance of the contract, Art. 6(1)(b) | Apple (independent controller) | While the App is installed |
 | Email you send me (section 6) | Legitimate interest in answering you, Art. 6(1)(f); performance of the contract, Art. 6(1)(b), when it concerns your subscription | Google (Gmail) | 24 months after the last message |
-| Everything on your device (section 1) | Performance of the contract, Art. 6(1)(b), to provide the App you use; for other people's names and avatars, legitimate interest, Art. 6(1)(f) | No one but your GitLab server (section 2); never me | Token, accounts, cache and recent items: until you sign out (unused cache entries after 30 days). Other preferences: until you delete the App |
-| Crash reports and usage statistics from Apple (section 5) | Legitimate interest in fixing faults, Art. 6(1)(f) | Me, via Apple | Until the fault is fixed |
+| Everything on your device (section 1) | Performance of the contract, Art. 6(1)(b), to provide the App you use; for other people's names and avatars, legitimate interest, Art. 6(1)(f) | No one but your GitLab server (section 2); never me | Token, accounts, cache and recent items: until you sign out (unused cache entries after 30 days). Other preferences: per-account ones until you sign out of that account, the rest until you delete the App |
+| Crash reports and usage statistics from Apple (section 5) | Legitimate interest in fixing faults, Art. 6(1)(f) | Me, via Apple | Copies I download: until the fault is fixed; Apple keeps the originals under its own policy |
 
 ## 1. Data stored on your device
 
@@ -67,7 +69,7 @@ The App does not track you across other companies' apps or websites, does not sh
 
 Apple's privacy label for the App is **Data Not Collected**.
 
-If you have turned on *Share With App Developers* in your device's privacy settings, Apple may give me crash reports and aggregated usage statistics for the App. This is Apple's feature, controlled in iOS settings, not by the App. Apple does not give me your identity with them. I use them to fix faults, on the basis of my legitimate interest (Art. 6(1)(f)), and keep them until the fault is fixed. You can stop them at any time by turning off *Share With App Developers*.
+If you have turned on *Share With App Developers* in your device's privacy settings, Apple may give me crash reports and aggregated usage statistics for the App. This is Apple's feature, controlled in iOS settings, not by the App. Apple does not give me your identity with them. I use them to fix faults, on the basis of my legitimate interest (Art. 6(1)(f)), and keep any copies I download until the fault is fixed; Apple keeps the originals under its own policy. You can stop them at any time by turning off *Share With App Developers*.
 
 ## 6. Email you send me
 
@@ -87,11 +89,11 @@ The App is a developer tool for people who hold a GitLab account and is not dire
 
 ## 9. Your rights
 
-Under the GDPR and similar laws you may have the right to access, correct or delete personal data, to object to or restrict processing, to data portability, and to complain to a supervisory authority.
+Under the GDPR and similar laws you may have the right to access, rectify or erase personal data, to restrict processing, to object, to data portability, and to complain to a supervisory authority.
 
 The only personal data I hold that could identify you is email you send me (section 6). To exercise any of these rights for it, email me. Data that stays on your device never reaches me: you control it by signing out or deleting the App.
 
-**Right to object.** Where I rely on legitimate interest (answering your email, or crash reports), you can object at any time by emailing me, and I will stop unless I have compelling legitimate grounds that override your interests, or need the data for a legal claim. You can also stop crash reports at any time by turning off *Share With App Developers*.
+**Right to object.** Where I rely on legitimate interest (answering your email, or crash reports), you can object at any time by emailing me, and I will stop unless I have compelling legitimate grounds that override your interests, rights and freedoms, or need the data for a legal claim. You can also stop crash reports at any time by turning off *Share With App Developers*.
 
 You may complain to the supervisory authority in the country where you live or work. For me, that is the President of the Personal Data Protection Office in Poland (Prezes Urzędu Ochrony Danych Osobowych, uodo.gov.pl).
 
@@ -103,7 +105,7 @@ Data held by your GitLab provider or by Apple is subject to their policies; plea
 |---|---|
 | GitLab Inc. (gitlab.com) or the operator of your self-managed instance | Independent controller: receives every request the App makes as you and governs your GitLab data |
 | Apple Inc. | Independent controller for in-app purchases, subscriptions and your Apple Account; distributes the App |
-| Google (Gmail; Google LLC in the United States) | Hosts my email, including email you send me (section 6) |
+| Google (Gmail; Google LLC in the United States) | Independent controller: hosts my email, including email you send me (section 6) |
 | GitHub Inc. | Hosts this page on GitHub Pages; GitHub may log visitor IP addresses under its own privacy statement |
 
 I do not share your data with anyone else, except where the law requires it.
@@ -118,3 +120,5 @@ Dmytro Yantsybaiev, Kraków, Poland
 Email: d.yantsybaiev@gmail.com
 
 My full business details (address, telephone, NIP) are in the [Terms of Use](../terms/#14-contact).
+
+This policy is available in English and Polish; both versions have the same content.
