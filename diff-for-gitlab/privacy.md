@@ -14,7 +14,7 @@ This policy explains what the iOS app **Diff for GitLab** ("the App") does with 
 - Your GitLab token is stored only in your device's Keychain and is sent only to the GitLab server you signed in to. It never reaches me.
 - Your code, merge requests, pipelines and other GitLab content travel only between your device and your GitLab server. I have no access to them.
 - Purchases are handled by Apple. I never see your payment details.
-- The App sends nothing to me. It contains no analytics or A/B testing, and it talks only to your GitLab server and to Apple.
+- The App sends nothing to me. It talks only to your GitLab server and to Apple.
 - No advertising, no tracking across apps or websites, no selling or sharing of data with data brokers.
 
 For data that stays on your device, I set the rules but never receive it. My obligations as controller arise only for email you send me (section 6).
@@ -107,8 +107,6 @@ I do not share your data with anyone else.
 ## 11. Changes
 
 I may update this policy as the App changes. The current version is always at this address with its effective date and a short list of what changed. Material changes are also mentioned in the App's release notes on the App Store.
-
-**10 October 2026:** removed usage analytics and A/B testing (PostHog). The App no longer sends any data to me or to an analytics service, and its App Store privacy label is now "Data Not Collected".
 
 ## 12. Contact
 
