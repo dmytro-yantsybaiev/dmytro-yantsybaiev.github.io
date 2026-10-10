@@ -35,7 +35,7 @@ Everything below stays on your device unless a later section says otherwise.
 | Account list | App preferences | For each account: username, GitLab server address, sign-in method and, for OAuth, the application identifier. Needed to show your accounts and switch between them. |
 | Offline cache of GitLab responses | App cache folder | Responses from your GitLab server (for example merge request lists and diffs) so screens open instantly and work offline. Protected until the device is first unlocked after a restart, capped at 200 MB, entries unused for 30 days are deleted, and iOS may purge the folder when storage is low. Cleared when you sign out of the account. |
 | Recent searches and recently viewed projects | App preferences | Kept per account, cleared when you sign out of that account. |
-| Preferences | App preferences | Code text size, job-log timestamp setting, the last self-managed server address you entered, and the state of home-screen sections. |
+| Preferences | App preferences | Code text size, job-log timestamp setting, the last self-managed server address you entered, the state of home-screen sections, which tips you have already seen, and, for an account on an older GitLab server, that server's version so the App can show the simpler home screen. Per-account items are cleared when you sign out of that account. |
 
 Deleting the App removes the cache and preferences. iOS does not guarantee that Keychain items are deleted together with an app, so sign out first, which deletes the token, or revoke the token in GitLab.
 
@@ -46,12 +46,14 @@ The App is a client for GitLab. Every request it makes goes to the GitLab server
 - The App never performs a write action on GitLab without you tapping the control for it.
 - People's avatars are loaded only from your own GitLab server, never from Gravatar or any other third-party image service. Project avatars are not loaded at all.
 - When you type a self-managed server address, the App makes one request without credentials to that server's `/api/v4/user` endpoint to confirm it is a GitLab server before asking for a token.
+- Network responses and any cookies your GitLab server sets are kept in memory only, never written to disk, and are discarded when you sign out or the App quits. The App's own offline cache (section 1) is the only copy kept on your device.
+- When you open Search, the App asks iOS whether the clipboard holds a web link, without reading it, so it can offer a Paste button. The clipboard's contents are read only when you tap Paste, and are not kept.
 
 What your GitLab server does with these requests is governed by GitLab Inc.'s privacy policy (for gitlab.com) or by the organisation that runs your self-managed instance; they are independent controllers of that data. I have no access to it.
 
 ## 3. Signing in with OAuth
 
-If you choose "Sign in with GitLab", the App opens GitLab in a system web sign-in sheet provided by iOS. You sign in on GitLab's own pages; the App never sees your GitLab password. The App requests GitLab's `api` scope, and the tokens are exchanged directly between your device and your GitLab server using PKCE. No server of mine is involved at any point.
+If you choose "Sign in with GitLab", the App opens GitLab in a system web sign-in sheet provided by iOS. You sign in on GitLab's own pages; the App never sees your GitLab password. On your first sign-in to a server, and when you re-authorise an account, the sheet shares cookies with Safari, so GitLab may keep you signed in to its website in Safari; signing out of the App does not sign you out there. When you add another account on the same server, the sheet does not share them, so you can sign in as someone else. The App requests GitLab's `api` scope, and the tokens are exchanged directly between your device and your GitLab server using PKCE. No server of mine is involved at any point.
 
 For gitlab.com, the OAuth application the App uses is registered under my GitLab account; this registration gives me no access to your account or tokens. For self-managed servers, the application is registered by your instance administrator. You can revoke the App's access at any time on GitLab's "Applications" or "Access Tokens" settings pages.
 
