@@ -7,7 +7,7 @@ permalink: /diff-for-gitlab/terms/
 
 **Effective date:** 10 October 2026
 
-These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who publishes the iOS application **Diff for GitLab** ("the App") as a trader ("I", "me"). By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
+These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who publishes the iOS application **Diff for GitLab™** ("the App") as a trader ("I", "me"). By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
 
 In short: the App is an independent client for GitLab. It runs on your device with your own GitLab credentials, which never leave your device except to go to your GitLab server. Full access is sold as an auto-renewing subscription through Apple. I am not GitLab Inc. and I am not Apple. If you are a consumer, nothing in these Terms takes away rights that the law of your country gives you.
 
@@ -21,7 +21,7 @@ The App requires an iPhone or iPad running iOS 26 or later, and a GitLab account
 
 ## 2. Independent of GitLab
 
-Diff for GitLab is an independent, third-party client. It is not affiliated with, endorsed by, sponsored by or otherwise connected to GitLab Inc. "GitLab" is a trademark of GitLab Inc.; the name "Diff for GitLab" uses it only to describe the service the App connects to, in line with GitLab's trademark guidelines.
+Diff for GitLab is an independent, third-party app. It is not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions. The name GitLab™ is used only to say which service the App works with.
 
 Your use of GitLab itself, whether gitlab.com or a self-managed instance, is governed by GitLab's own terms or by the rules of the organisation that runs that instance. Nothing in these Terms changes those obligations.
 

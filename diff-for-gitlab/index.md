@@ -5,9 +5,9 @@ permalink: /diff-for-gitlab/
 
 # Diff for GitLab
 
-Legal documents for the Diff for GitLab iOS app.
+Legal documents for the Diff for GitLab™ iOS app.
 
 - [Terms of Use](./terms/)
 - [Privacy Policy](./privacy/)
 
-Diff for GitLab is an independent app by Dmytro Yantsybaiev. It is not affiliated with, endorsed by or sponsored by GitLab Inc. GitLab is a trademark of GitLab Inc.
+Diff for GitLab is an independent app by Dmytro Yantsybaiev. It is not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions.
