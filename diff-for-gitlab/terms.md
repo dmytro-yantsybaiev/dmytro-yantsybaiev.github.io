@@ -9,7 +9,7 @@ permalink: /diff-for-gitlab/terms/
 
 These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who publishes the iOS application **Diff for GitLab™** ("the App") as a trader ("I", "me"). By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
 
-In short: the App is an independent client for GitLab. It runs on your device with your own GitLab credentials, which never leave your device except to go to your GitLab server. Full access is sold as an auto-renewing subscription through Apple. I am not GitLab Inc. and I am not Apple. If you are a consumer, nothing in these Terms takes away rights that the law of your country gives you. A sole trader protected by Article 385⁵ of the Polish Civil Code is treated as a consumer in sections 5, 6, 7, 9 and 11.
+If you are a consumer, nothing in these Terms takes away rights that the law of your country gives you. A sole trader protected by Article 385⁵ of the Polish Civil Code is treated as a consumer in sections 5, 6, 7, 9 and 11.
 
 ## 1. What the App does and what it needs
 
@@ -56,26 +56,23 @@ After the introductory screens, using the App requires an active subscription. T
 - **Automatic renewal.** The subscription renews automatically for the same period unless you cancel it at least 24 hours before the end of the current period. Your Apple Account is charged for the renewal within 24 hours before the current period ends.
 - **Managing and cancelling.** You can manage or cancel the subscription at any time in your device's Settings, under your Apple Account, in Subscriptions. Deleting the App does not cancel a subscription.
 - **Free trial.** Any unused part of a free trial is forfeited when you purchase a subscription.
-- **Offer codes.** Offer codes, where available, are redeemed through Apple and are subject to Apple's conditions.
-- **Restore Purchases.** If you reinstall the App or use a new device signed in to the same Apple Account, use Restore Purchases to regain access.
-- **Right of withdrawal.** The purchase contract is concluded with Apple. If you are a consumer in the European Union, or in the United Kingdom under the Consumer Contracts Regulations 2013, your right to cancel the purchase within 14 days is provided by Apple under the Apple Media Services Terms; request it at reportaproblem.apple.com.
-- **Refunds.** Payments are processed by Apple, which also handles refund requests (reportaproblem.apple.com); I never see your payment details. This does not limit your rights under mandatory consumer law. You can also contact me directly (section 14) about a refund you believe you are owed.
+- **Withdrawal and refunds.** Purchases, withdrawal (EU/UK) and refunds are handled by Apple under the Apple Media Services Terms (reportaproblem.apple.com); I never see your payment details. Your mandatory rights are unaffected, and you can also contact me (section 14).
 
-## 6. Conformity, updates and warranty
+## 6. Statutory rights and warranty
 
-If you are a consumer, the App must conform to our contract, as EU and Polish consumer law requires (Directive (EU) 2019/770; Polish Consumer Rights Act, chapter 5b). During your subscription I will supply the updates, including security updates, needed to keep the App in conformity. iOS tells you when an update is available; if you choose not to install it, I am not responsible for problems caused only by that. If the App does not conform, you have the statutory remedies: bringing it into conformity, a price reduction, or ending the contract with a refund for the affected period. If you are a consumer in the United Kingdom, you have the rights for digital content under the Consumer Rights Act 2015, including a remedy if the App damages your device or other digital content because I did not use reasonable care and skill.
+If you are a consumer, your statutory rights for digital content are not affected.
 
 Beyond those statutory rights, I give no additional warranties. In particular, I do not promise that the App works with every GitLab version or configuration beyond what section 1 states, or that it is free of every error.
 
 ## 7. Support and complaints
 
-I answer support questions by email (section 14) as quickly as I can, but I cannot promise a response time. A complaint that the App does not conform to our contract (in Polish: *reklamacja*) is answered within 14 days of receipt, as Polish law requires.
+Send complaints to the email in section 14, describing the problem. A complaint that the App does not conform to our contract (in Polish: *reklamacja*) is answered within 14 days of receipt.
 
 ## 8. Third-party services and open-source software
 
 The App relies on services I do not control: the GitLab server you connect to, and Apple's App Store and in-app purchase system. You must comply with any applicable third-party terms of agreement when using the App, including the terms of the GitLab instance you connect to, Apple's terms for the App Store and in-app purchases, and your wireless carrier's data service agreement. The availability of those services affects the App, and you are responsible for any data charges from your carrier.
 
-The App includes open-source software: Highlightr and highlight.js, which Highlightr bundles. They are used under their licences, whose notices are reproduced in full under *Open-source notices* at the end of these Terms. Those licences cover only that software and do not change these Terms.
+The App includes open-source software: Highlightr and highlight.js, which Highlightr bundles. They are used under their licences, whose notices are reproduced in full under *Open-source notices* at the end of these Terms.
 
 ## 9. Liability
 
@@ -101,21 +98,19 @@ If you materially breach these Terms I may end your licence by a notice shown in
 
 I may change these Terms for a valid reason: a change in the law, in Apple's or GitLab's requirements, a new or removed feature, or a security need. I will show you changed Terms in the App, where you can save them, before they apply. A change that is to your disadvantage applies to you only from the first renewal after I have shown it to you; if you do not accept it, cancel before then.
 
-I may change the App for the reasons above, at no extra cost to you. If a change to the App harms your access to it or use of it more than in a minor way, I will tell you in advance, in a form you can save, and you may end the contract within 30 days of the change (or of my notice, if later) and get back the price for the rest of the paid period within 14 days of your notice. This does not apply if you can keep using the unchanged version at no cost and it still conforms to our contract.
+I may change the App for the reasons above, at no extra cost to you. If a change harms your access to it or use of it more than in a minor way, you may end the contract under Article 43q of the Polish Consumer Rights Act, unless you can keep using the unchanged version at no cost.
 
 ## 12. Governing law and disputes
 
 These Terms are governed by the laws of Poland. If you are a consumer resident in another country, you also benefit from any mandatory provisions of the law of that country, and you may bring proceedings in its courts where the law of that country allows it.
-
-If we cannot resolve a dispute between us, you may use out-of-court consumer dispute resolution. In Poland the competent bodies are the Trade Inspection (Wojewódzki Inspektorat Inspekcji Handlowej w Krakowie) and the municipal or district consumer ombudsman (*rzecznik konsumentów*); see uokik.gov.pl. I decide case by case whether to take part and will tell you in my reply to your complaint. Consumers elsewhere in the EU, Iceland or Norway can get free help from the European Consumer Centre in their own country (ECC-Net). If you are a consumer living in the EU, I may bring proceedings against you only in the courts of the country where you live.
 
 ## 13. Terms Apple requires
 
 Apple requires the following terms in every custom licence agreement for an App Store app.
 
 - **Acknowledgement.** These Terms are between you and me only, not with Apple Inc. or any of its subsidiaries ("Apple"). Apple is not a party to these Terms. I, not Apple, am solely responsible for the App and its content. These Terms do not grant usage rights that conflict with the Usage Rules in the Apple Media Services Terms and Conditions, which you have had the opportunity to review; where they conflict, the Apple Usage Rules prevail.
-- **Maintenance and support.** I alone am responsible for providing maintenance and support for the App, as described in section 7. Apple has no obligation whatsoever to furnish any maintenance or support for the App.
-- **Warranty.** If the App fails to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) you paid for the App or the current subscription period. To the maximum extent permitted by law, Apple has no other warranty obligation whatsoever with respect to the App. Any other claims, losses, liabilities, damages, costs or expenses attributable to a failure to conform to a warranty are my sole responsibility.
+- **Maintenance and support.** I alone am responsible for providing maintenance and support for the App, as described in sections 7 and 14. Apple has no obligation whatsoever to furnish any maintenance or support for the App.
+- **Warranty.** I am solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. If the App fails to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the App. To the maximum extent permitted by law, Apple has no other warranty obligation whatsoever with respect to the App. Any other claims, losses, liabilities, damages, costs or expenses attributable to a failure to conform to a warranty are my sole responsibility.
 - **Product claims.** I, not Apple, am responsible for addressing any claims by you or any third party relating to the App or your possession or use of it, including product liability claims, any claim that the App fails to conform to a legal or regulatory requirement, and claims arising under consumer protection, privacy or similar legislation.
 - **Intellectual property claims.** If a third party claims that the App or your possession and use of it infringes that third party's intellectual property rights, I, not Apple, am solely responsible for the investigation, defence, settlement and discharge of that claim.
 - **Legal compliance.** You confirm that you are not located in a country that is subject to a United States Government embargo or that has been designated by the United States Government as a "terrorist supporting" country, and that you are not listed on any United States Government list of prohibited or restricted parties.
@@ -134,7 +129,7 @@ Use this address for questions, complaints and legal notices.
 
 ## 15. General
 
-If any provision of these Terms is held invalid, the remaining provisions remain in effect. My failure to enforce a provision is not a waiver of it. These Terms, together with the information shown on the App Store page before purchase, are the whole agreement between us about the App. The Privacy Policy describes how data is handled and is provided for your information; it is not part of this agreement.
+If any provision of these Terms is held invalid, the remaining provisions remain in effect. My failure to enforce a provision is not a waiver of it. If you are neither a consumer nor a sole trader protected by Article 385⁵ of the Polish Civil Code, these Terms, together with the information shown on the App Store page before purchase, are the whole agreement between us about the App. The Privacy Policy describes how data is handled and is provided for your information; it is not part of this agreement.
 
 ## Open-source notices
 
