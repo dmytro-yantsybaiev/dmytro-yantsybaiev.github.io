@@ -85,7 +85,9 @@ I am liable for damage caused by my fault under general law. I am not responsibl
 - the results of actions you deliberately take through the App, such as merging or approving (they are your actions, exactly as on the GitLab website; see section 1);
 - loss caused by your breach of these Terms or of GitLab's rules.
 
-If you are not a consumer, my total liability for all claims relating to the App is limited to the amount you paid for the App in the twelve months before the event giving rise to the claim, and I am not liable for indirect or consequential loss, lost profits or lost data.
+These points do not cover loss caused by a defect in the App itself, for example the App performing an action you did not request, or a different one.
+
+If you are neither a consumer nor a business owner with consumer rights under Polish law (Article 385⁵ of the Civil Code), my total liability for all claims relating to the App is limited to the amount you paid for the App in the twelve months before the event giving rise to the claim, and I am not liable for indirect or consequential loss, lost profits or lost data.
 
 Nothing in these Terms limits liability for intentional or grossly negligent conduct, for death or personal injury, or any other liability that cannot be limited by law.
 
