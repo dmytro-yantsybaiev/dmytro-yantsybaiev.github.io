@@ -44,7 +44,7 @@ Deleting the App removes the cache and preferences. iOS does not guarantee that 
 
 ## 2. Data sent to your GitLab server
 
-The App is a client for GitLab. Every request it makes goes to the GitLab server you signed in to, over HTTPS only, carrying your token so GitLab can act as you. That includes reading merge requests, diffs, pipelines, job logs, projects and files, and the actions you take by tapping a control, for example approving or removing your approval, merging or rebasing, commenting or resolving a thread, retrying, cancelling or running a pipeline or job, and starring a project.
+The App is a client for GitLab. Every request it makes goes to the GitLab server you signed in to, over HTTPS only, carrying your token so GitLab can act as you. That includes reading merge requests, diffs, pipelines, job logs, projects and files, and the actions you take by tapping a control, for example approving or removing your approval, merging, commenting or resolving a thread, retrying, cancelling or running a pipeline or job, and starring a project.
 
 - People's avatars are loaded only from your own GitLab server, never from Gravatar or any other third-party image service. Project avatars are not loaded at all.
 - When you type a self-managed server address, the App sends requests without credentials to `/api/v4/user` on that address and, if needed, on the root of the same host, to confirm it is a GitLab server before asking for a token.

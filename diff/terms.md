@@ -15,7 +15,7 @@ If you are a consumer, nothing in these Terms takes away rights that the law of 
 
 ## 1. What the App does and what it needs
 
-The App shows merge requests, pipelines, projects and files from the GitLab server you sign in to. It can also perform actions on that server on your behalf, for example approving or removing your approval, merging or rebasing a merge request, commenting or resolving a thread, retrying, cancelling or running a pipeline or job, and starring a project.
+The App shows merge requests, pipelines, projects and files from the GitLab server you sign in to. It can also perform actions on that server on your behalf, for example approving or removing your approval, merging a merge request, commenting or resolving a thread, retrying, cancelling or running a pipeline or job, and starring a project.
 
 The App performs these actions only when you ask it to, by tapping the corresponding control. Every action runs under your GitLab account and is subject to the permissions that account has. You are responsible for the actions you take through the App, exactly as if you had taken them on the GitLab website.
 

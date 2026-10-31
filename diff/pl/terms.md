@@ -16,7 +16,7 @@ Jeśli jesteś konsumentem, nic w niniejszych Warunkach nie odbiera Ci praw, kt�
 
 ## 1. Co robi Aplikacja i czego wymaga
 
-Aplikacja wyświetla merge requesty, pipeline’y, projekty i pliki z serwera GitLab, na którym się logujesz. Może też wykonywać w Twoim imieniu działania na tym serwerze, na przykład zatwierdzać merge request lub cofać zatwierdzenie, scalać go lub wykonywać rebase, komentować lub rozwiązywać wątek, ponawiać, anulować lub uruchamiać pipeline albo zadanie (job) oraz oznaczać projekt gwiazdką.
+Aplikacja wyświetla merge requesty, pipeline’y, projekty i pliki z serwera GitLab, na którym się logujesz. Może też wykonywać w Twoim imieniu działania na tym serwerze, na przykład zatwierdzać merge request lub cofać zatwierdzenie, scalać go, komentować lub rozwiązywać wątek, ponawiać, anulować lub uruchamiać pipeline albo zadanie (job) oraz oznaczać projekt gwiazdką.
 
 Aplikacja wykonuje te działania wyłącznie na Twoje polecenie, po dotknięciu odpowiedniego elementu sterującego. Każde działanie jest wykonywane na Twoim koncie GitLab i podlega uprawnieniom tego konta. Za działania, które wykonujesz za pomocą Aplikacji, odpowiadasz tak samo jak za działania wykonane w serwisie GitLab.
 

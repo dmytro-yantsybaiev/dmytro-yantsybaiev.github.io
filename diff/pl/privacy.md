@@ -45,7 +45,7 @@ Usunięcie Aplikacji usuwa pamięć podręczną i ustawienia. iOS nie gwarantuje
 
 ## 2. Dane wysyłane do Twojego serwera GitLab
 
-Aplikacja jest klientem GitLab. Każde jej żądanie trafia do serwera GitLab, na którym się logujesz, wyłącznie przez HTTPS, wraz z Twoim tokenem, aby GitLab mógł działać w Twoim imieniu. Obejmuje to odczytywanie merge requestów, zmian w kodzie, pipeline’ów, logów zadań, projektów i plików oraz działania wykonywane przez dotknięcie elementu sterującego, na przykład zatwierdzanie merge requestu lub cofanie zatwierdzenia, scalanie lub rebase, komentowanie lub rozwiązywanie wątku, ponawianie, anulowanie lub uruchamianie pipeline’u albo zadania oraz oznaczanie projektu gwiazdką.
+Aplikacja jest klientem GitLab. Każde jej żądanie trafia do serwera GitLab, na którym się logujesz, wyłącznie przez HTTPS, wraz z Twoim tokenem, aby GitLab mógł działać w Twoim imieniu. Obejmuje to odczytywanie merge requestów, zmian w kodzie, pipeline’ów, logów zadań, projektów i plików oraz działania wykonywane przez dotknięcie elementu sterującego, na przykład zatwierdzanie merge requestu lub cofanie zatwierdzenia, scalanie, komentowanie lub rozwiązywanie wątku, ponawianie, anulowanie lub uruchamianie pipeline’u albo zadania oraz oznaczanie projektu gwiazdką.
 
 - Awatary osób są wczytywane wyłącznie z Twojego serwera GitLab, nigdy z Gravatara ani innej zewnętrznej usługi z obrazami. Awatary projektów nie są wczytywane.
 - Gdy wpisujesz adres samodzielnie hostowanego serwera, Aplikacja wysyła żądania bez danych uwierzytelniających do `/api/v4/user` pod tym adresem oraz, w razie potrzeby, pod adresem głównym tego samego hosta, aby przed poproszeniem o token potwierdzić, że jest to serwer GitLab.
