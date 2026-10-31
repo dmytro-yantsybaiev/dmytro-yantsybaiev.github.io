@@ -1,15 +1,15 @@
 ---
 title: Terms of Use
-permalink: /diff-for-gitlab/terms/
+permalink: /diff/terms/
 ---
 
 *Polska wersja: [Warunki korzystania](../pl/terms/)*
 
-# Diff for GitLab — Terms of Use
+# Diff: Merge Request Review — Terms of Use
 
 **Effective date:** 10 October 2026
 
-These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who publishes the iOS application **Diff for GitLab™** ("the App") as a trader ("I", "me"). By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
+These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who, as a trader ("I", "me"), publishes the iOS application **Diff: Merge Request Review** ("the App"), a merge request client for GitLab™. By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
 
 If you are a consumer, nothing in these Terms takes away rights that the law of your country gives you. A sole trader protected by Article 385⁵ of the Polish Civil Code and Article 7aa of the Polish Consumer Rights Act is treated as a consumer in sections 5, 6, 7, 9 and 11.
 
@@ -23,7 +23,7 @@ The App requires an iPhone or iPad running iOS 26 or later, and a GitLab account
 
 ## 2. Independent of GitLab
 
-Diff for GitLab is an independent, third-party app. It is not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions. The name GitLab™ is used only to say which service the App works with.
+The App is an independent, third-party app. It is not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions. The name GitLab™ is used only to say which service the App works with.
 
 Your use of GitLab itself, whether gitlab.com or a self-managed instance, is governed by GitLab's own terms or by the rules of the organisation that runs that instance. Nothing in these Terms changes those obligations.
 
@@ -51,7 +51,7 @@ After the introductory screens, using the App requires an active subscription. T
 | Plan | Billing | Free trial |
 |---|---|---|
 | Yearly Plan | Billed once per year | None |
-| Weekly Plan | Billed once per week | 3 days, for Apple Accounts that have not subscribed to any Diff for GitLab plan before. Eligibility is decided by Apple. |
+| Weekly Plan | Billed once per week | 3 days, for Apple Accounts that have not subscribed to any subscription plan for the App before. Eligibility is decided by Apple. |
 
 - **Prices.** The exact price is shown in the App and on the App Store at the time of purchase. Prices vary by country, currency and applicable taxes. Prices may change for future renewal periods; Apple tells you in advance and, where the law requires, asks for your consent. If you do not accept a new price, cancel before it takes effect and you will not be charged it.
 - **Payment.** Payment is charged to your Apple Account when you confirm the purchase. If the plan starts with a free trial, the first charge is made at the end of the trial unless you cancel at least 24 hours before the trial ends.

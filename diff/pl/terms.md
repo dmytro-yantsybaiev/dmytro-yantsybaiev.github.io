@@ -1,16 +1,16 @@
 ---
 title: Warunki korzystania
 lang: pl
-permalink: /diff-for-gitlab/pl/terms/
+permalink: /diff/pl/terms/
 ---
 
 *English version: [Terms of Use](../../terms/)*
 
-# Diff for GitLab — Warunki korzystania
+# Diff: Merge Request Review — Warunki korzystania
 
 **Data wejścia w życie:** 10 października 2026 r.
 
-Niniejsze Warunki korzystania („Warunki”) stanowią umowę między Tobą a przedsiębiorcą Dmytro Yantsybaiev, twórcą oprogramowania prowadzącym działalność w Krakowie (Polska), który udostępnia aplikację na iOS **Diff for GitLab™** („Aplikacja”); o sobie piszę w pierwszej osobie („ja”). Instalując Aplikację lub korzystając z niej, akceptujesz niniejsze Warunki. Jeśli ich nie akceptujesz, nie korzystaj z Aplikacji.
+Niniejsze Warunki korzystania („Warunki”) stanowią umowę między Tobą a przedsiębiorcą Dmytro Yantsybaiev, twórcą oprogramowania prowadzącym działalność w Krakowie (Polska), który udostępnia aplikację na iOS **Diff: Merge Request Review** („Aplikacja”), klienta merge requestów dla GitLab™; o sobie piszę w pierwszej osobie („ja”). Instalując Aplikację lub korzystając z niej, akceptujesz niniejsze Warunki. Jeśli ich nie akceptujesz, nie korzystaj z Aplikacji.
 
 Jeśli jesteś konsumentem, nic w niniejszych Warunkach nie odbiera Ci praw, które przyznaje Ci prawo Twojego kraju. Przedsiębiorca chroniony art. 385⁵ Kodeksu cywilnego i art. 7aa ustawy o prawach konsumenta (przedsiębiorca na prawach konsumenta) jest traktowany jak konsument w sekcjach 5, 6, 7, 9 i 11.
 
@@ -24,7 +24,7 @@ Aplikacja wymaga iPhone’a lub iPada z systemem iOS 26 lub nowszym oraz konta G
 
 ## 2. Niezależność od GitLab
 
-Diff for GitLab jest niezależną aplikacją podmiotu trzeciego. Nie jest powiązana z GitLab Inc. ani przez nią popierana, sponsorowana lub zatwierdzona. GITLAB jest znakiem towarowym GitLab Inc. w Stanach Zjednoczonych oraz innych krajach i regionach. Nazwa GitLab™ jest używana wyłącznie do wskazania usługi, z którą współpracuje Aplikacja.
+Aplikacja jest niezależną aplikacją podmiotu trzeciego. Nie jest powiązana z GitLab Inc. ani przez nią popierana, sponsorowana lub zatwierdzona. GITLAB jest znakiem towarowym GitLab Inc. w Stanach Zjednoczonych oraz innych krajach i regionach. Nazwa GitLab™ jest używana wyłącznie do wskazania usługi, z którą współpracuje Aplikacja.
 
 Korzystanie z samego GitLab, czy to z gitlab.com, czy z instancji hostowanej samodzielnie, podlega warunkom GitLab lub zasadom organizacji, która prowadzi daną instancję. Niniejsze Warunki nie zmieniają tych obowiązków.
 
@@ -52,7 +52,7 @@ Po ekranach wprowadzających korzystanie z Aplikacji wymaga aktywnej subskrypcji
 | Plan | Rozliczenie | Bezpłatny okres próbny |
 |---|---|---|
 | Plan roczny (Yearly Plan) | Raz w roku | Brak |
-| Plan tygodniowy (Weekly Plan) | Raz w tygodniu | 3 dni, dla Kont Apple, które wcześniej nie subskrybowały żadnego planu Diff for GitLab. O prawie do okresu próbnego decyduje Apple. |
+| Plan tygodniowy (Weekly Plan) | Raz w tygodniu | 3 dni, dla Kont Apple, które wcześniej nie subskrybowały żadnego planu subskrypcji Aplikacji. O prawie do okresu próbnego decyduje Apple. |
 
 - **Ceny.** Dokładna cena jest wyświetlana w Aplikacji i w App Store w chwili zakupu. Ceny różnią się w zależności od kraju, waluty i obowiązujących podatków. Ceny mogą się zmienić na kolejne okresy odnowienia; Apple informuje o tym z wyprzedzeniem i, gdy wymaga tego prawo, prosi o Twoją zgodę. Jeśli nie akceptujesz nowej ceny, anuluj subskrypcję, zanim nowa cena wejdzie w życie, a nowa cena nie zostanie naliczona.
 - **Płatność.** Płatność jest pobierana z Twojego Konta Apple w chwili potwierdzenia zakupu. Jeśli plan zaczyna się od bezpłatnego okresu próbnego, pierwsza opłata jest pobierana po jego zakończeniu, chyba że anulujesz subskrypcję co najmniej 24 godziny przed końcem okresu próbnego.

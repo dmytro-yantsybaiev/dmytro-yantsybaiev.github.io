@@ -1,15 +1,15 @@
 ---
 title: Privacy Policy
-permalink: /diff-for-gitlab/privacy/
+permalink: /diff/privacy/
 ---
 
 *Polska wersja: [Polityka prywatności](../pl/privacy/)*
 
-# Diff for GitLab — Privacy Policy
+# Diff: Merge Request Review — Privacy Policy
 
 **Effective date:** 10 October 2026
 
-This policy explains what the iOS app **Diff for GitLab™** ("the App") does with your data. It is an independent app, not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions. The App is made and published by Dmytro Yantsybaiev, a software developer based in Kraków, Poland ("I", "me"), who is the data controller for the processing listed in the table below. Contact details are in section 12.
+This policy explains what the iOS app **Diff: Merge Request Review** ("the App"), a merge request client for GitLab™, does with your data. It is an independent app, not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions. The App is made and published by Dmytro Yantsybaiev, a software developer based in Kraków, Poland ("I", "me"), who is the data controller for the processing listed in the table below. Contact details are in section 12.
 
 ## Summary
 

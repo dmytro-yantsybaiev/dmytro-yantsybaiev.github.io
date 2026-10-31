@@ -1,16 +1,16 @@
 ---
 title: Polityka prywatności
 lang: pl
-permalink: /diff-for-gitlab/pl/privacy/
+permalink: /diff/pl/privacy/
 ---
 
 *English version: [Privacy Policy](../../privacy/)*
 
-# Diff for GitLab — Polityka prywatności
+# Diff: Merge Request Review — Polityka prywatności
 
 **Data wejścia w życie:** 10 października 2026 r.
 
-Niniejsza polityka wyjaśnia, co aplikacja na iOS **Diff for GitLab™** („Aplikacja”) robi z Twoimi danymi. Jest to niezależna aplikacja, niepowiązana z GitLab Inc. ani przez nią niepopierana, niesponsorowana i niezatwierdzona. GITLAB jest znakiem towarowym GitLab Inc. w Stanach Zjednoczonych oraz innych krajach i regionach. Aplikację tworzy i udostępnia Dmytro Yantsybaiev, twórca oprogramowania prowadzący działalność w Krakowie („ja”), który jest administratorem danych w zakresie przetwarzania wymienionego w tabeli poniżej. Dane kontaktowe znajdują się w sekcji 12.
+Niniejsza polityka wyjaśnia, co aplikacja na iOS **Diff: Merge Request Review** („Aplikacja”), klient merge requestów dla GitLab™, robi z Twoimi danymi. Jest to niezależna aplikacja, niepowiązana z GitLab Inc. ani przez nią niepopierana, niesponsorowana i niezatwierdzona. GITLAB jest znakiem towarowym GitLab Inc. w Stanach Zjednoczonych oraz innych krajach i regionach. Aplikację tworzy i udostępnia Dmytro Yantsybaiev, twórca oprogramowania prowadzący działalność w Krakowie („ja”), który jest administratorem danych w zakresie przetwarzania wymienionego w tabeli poniżej. Dane kontaktowe znajdują się w sekcji 12.
 
 ## Podsumowanie
 
