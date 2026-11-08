@@ -7,7 +7,7 @@ permalink: /diff/privacy/
 
 # Diff: Merge Request Review — Privacy Policy
 
-**Effective date:** 10 October 2026
+**Effective date:** 8 November 2026
 
 This policy explains what the iOS app **Diff: Merge Request Review** ("the App"), a merge request client for GitLab™, does with your data. It is an independent app, not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions. The App is made and published by Dmytro Yantsybaiev, a software developer based in Kraków, Poland ("I", "me"), who is the data controller for the processing listed in the table below. Contact details are in section 12.
 
@@ -34,7 +34,7 @@ Everything below stays on your device unless a later section says otherwise.
 
 | Data | Where | Details |
 |---|---|---|
-| GitLab access token (personal access token or OAuth tokens) | iOS Keychain | Stored with the "accessible when unlocked, this device only" protection class. It is not synced to iCloud Keychain and is not restored to another device from a backup. Deleted when you sign out. |
+| GitLab access token (personal access token or OAuth tokens) | iOS Keychain | Stored with the "accessible after first unlock, this device only" protection class: readable once the device has been unlocked after a restart. It is not synced to iCloud Keychain and is not restored to another device from a backup. Deleted when you sign out. |
 | Account list | App preferences | For each account: username, GitLab server address, sign-in method and, for OAuth, the application identifier. Needed to show your accounts and switch between them. |
 | Offline cache of GitLab responses | App cache folder | Responses from your GitLab server (for example merge request lists and diffs) so screens open instantly and work offline. Protected until the device is first unlocked after a restart, capped at 200 MB, entries unused for 30 days are deleted, and iOS may purge the folder when storage is low. Cleared when you sign out of the account. |
 | Recent searches and recently viewed projects | App preferences | Kept per account, cleared when you sign out of that account. |
@@ -55,9 +55,9 @@ What your GitLab server does with these requests is governed by GitLab Inc.'s pr
 
 ## 3. Signing in with OAuth
 
-If you choose "Sign in with GitLab", the App opens GitLab in a system web sign-in sheet provided by iOS. You sign in on GitLab's own pages; the App never sees your GitLab password. On your first sign-in to a server, and when you re-authorise an account, the sheet shares cookies with Safari, so GitLab may keep you signed in to its website in Safari; signing out of the App does not sign you out there. When you add another account on the same server, the sheet does not share them, so you can sign in as someone else. The App requests GitLab's `api` scope, and the tokens are exchanged directly between your device and your GitLab server using PKCE. No server of mine is involved at any point.
+Web sign-in is available for gitlab.com only; on other GitLab servers you sign in with an access token. If you choose "Sign In on gitlab.com", the App opens GitLab in a system web sign-in sheet provided by iOS. You sign in on GitLab's own pages; the App never sees your GitLab password. On your first sign-in to gitlab.com, and when you re-authorise an account, the sheet shares cookies with Safari, so GitLab may keep you signed in to its website in Safari; signing out of the App does not sign you out there. When you add another gitlab.com account, the sheet does not share them, so you can sign in as someone else. The App requests GitLab's `api` scope, and the tokens are exchanged directly between your device and gitlab.com using PKCE. No server of mine is involved at any point.
 
-For gitlab.com, the OAuth application the App uses is registered under my GitLab account; this registration gives me no access to your account or tokens. For self-managed servers, the application is registered by your instance administrator. You can revoke the App's access at any time on GitLab's "Applications" or "Access Tokens" settings pages.
+For gitlab.com, the OAuth application the App uses is registered under my GitLab account; this registration gives me no access to your account or tokens. You can revoke the App's access at any time on GitLab's "Applications" or "Access Tokens" settings pages.
 
 ## 4. Purchases
 
@@ -78,7 +78,7 @@ If you email me, I keep your address and message to answer you and to keep a rec
 ## 7. Security
 
 - Only HTTPS server addresses are accepted. Certificates are validated by iOS; a self-managed server with a private certificate authority requires a configuration profile installed on the device.
-- Tokens are protected by the iOS Keychain and are readable only while the device is unlocked.
+- Tokens are protected by the iOS Keychain and are readable only after the device is first unlocked after a restart.
 - Cached GitLab data is protected by iOS file protection until the device is first unlocked after a restart.
 
 No method of storage or transmission is completely secure. If you believe your token has been exposed, revoke it in GitLab.

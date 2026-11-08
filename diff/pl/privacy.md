@@ -8,7 +8,7 @@ permalink: /diff/pl/privacy/
 
 # Diff: Merge Request Review — Polityka prywatności
 
-**Data wejścia w życie:** 10 października 2026 r.
+**Data wejścia w życie:** 8 listopada 2026 r.
 
 Niniejsza polityka wyjaśnia, co aplikacja na iOS **Diff: Merge Request Review** („Aplikacja”), klient merge requestów dla GitLab™, robi z Twoimi danymi. Jest to niezależna aplikacja, niepowiązana z GitLab Inc. ani przez nią niepopierana, niesponsorowana i niezatwierdzona. GITLAB jest znakiem towarowym GitLab Inc. w Stanach Zjednoczonych oraz innych krajach i regionach. Aplikację tworzy i udostępnia Dmytro Yantsybaiev, twórca oprogramowania prowadzący działalność w Krakowie („ja”), który jest administratorem danych w zakresie przetwarzania wymienionego w tabeli poniżej. Dane kontaktowe znajdują się w sekcji 12.
 
@@ -35,7 +35,7 @@ Wszystkie poniższe dane pozostają na Twoim urządzeniu, chyba że dalsza sekcj
 
 | Dane | Gdzie | Szczegóły |
 |---|---|---|
-| Token dostępu GitLab (osobisty token dostępu lub tokeny OAuth) | Pęk kluczy iOS (Keychain) | Przechowywany z klasą ochrony „dostępny po odblokowaniu, tylko na tym urządzeniu”. Nie jest synchronizowany z Pękiem kluczy iCloud ani przywracany na innym urządzeniu z kopii zapasowej. Usuwany po wylogowaniu. |
+| Token dostępu GitLab (osobisty token dostępu lub tokeny OAuth) | Pęk kluczy iOS (Keychain) | Przechowywany z klasą ochrony „dostępny po pierwszym odblokowaniu, tylko na tym urządzeniu”: można go odczytać, gdy urządzenie zostało odblokowane po ponownym uruchomieniu. Nie jest synchronizowany z Pękiem kluczy iCloud ani przywracany na innym urządzeniu z kopii zapasowej. Usuwany po wylogowaniu. |
 | Lista kont | Ustawienia Aplikacji | Dla każdego konta: nazwa użytkownika, adres serwera GitLab, metoda logowania oraz, w przypadku OAuth, identyfikator aplikacji. Potrzebne do wyświetlania Twoich kont i przełączania się między nimi. |
 | Pamięć podręczna odpowiedzi GitLab do pracy offline | Folder pamięci podręcznej Aplikacji | Odpowiedzi z Twojego serwera GitLab (na przykład listy merge requestów i zmiany w kodzie), dzięki którym ekrany otwierają się od razu i działają offline. Chronione do pierwszego odblokowania urządzenia po ponownym uruchomieniu, ograniczone do 200 MB; wpisy nieużywane przez 30 dni są usuwane, a iOS może wyczyścić folder przy braku miejsca. Czyszczone po wylogowaniu z konta. |
 | Ostatnie wyszukiwania i ostatnio przeglądane projekty | Ustawienia Aplikacji | Przechowywane osobno dla każdego konta i czyszczone po wylogowaniu z tego konta. |
@@ -56,9 +56,9 @@ To, co Twój serwer GitLab robi z tymi żądaniami, określa polityka prywatnoś
 
 ## 3. Logowanie przez OAuth
 
-Jeśli wybierzesz „Sign in with GitLab”, Aplikacja otworzy GitLab w systemowym oknie logowania iOS. Logujesz się na stronach GitLab; Aplikacja nigdy nie widzi Twojego hasła do GitLab. Przy pierwszym logowaniu na danym serwerze i przy ponownej autoryzacji konta okno to współdzieli pliki cookie z Safari, więc GitLab może utrzymać Twoją sesję w swoim serwisie w Safari; wylogowanie z Aplikacji nie wylogowuje Cię tam. Gdy dodajesz kolejne konto na tym samym serwerze, okno nie współdzieli plików cookie, dzięki czemu możesz zalogować się jako inna osoba. Aplikacja prosi o zakres `api` w GitLab, a tokeny są wymieniane bezpośrednio między Twoim urządzeniem a Twoim serwerem GitLab z użyciem PKCE. Żaden mój serwer nie uczestniczy w tym procesie.
+Logowanie przez przeglądarkę jest dostępne tylko dla gitlab.com; na innych serwerach GitLab logujesz się tokenem dostępu. Jeśli wybierzesz „Sign In on gitlab.com”, Aplikacja otworzy GitLab w systemowym oknie logowania iOS. Logujesz się na stronach GitLab; Aplikacja nigdy nie widzi Twojego hasła do GitLab. Przy pierwszym logowaniu na gitlab.com i przy ponownej autoryzacji konta okno to współdzieli pliki cookie z Safari, więc GitLab może utrzymać Twoją sesję w swoim serwisie w Safari; wylogowanie z Aplikacji nie wylogowuje Cię tam. Gdy dodajesz kolejne konto na gitlab.com, okno nie współdzieli plików cookie, dzięki czemu możesz zalogować się jako inna osoba. Aplikacja prosi o zakres `api` w GitLab, a tokeny są wymieniane bezpośrednio między Twoim urządzeniem a gitlab.com z użyciem PKCE. Żaden mój serwer nie uczestniczy w tym procesie.
 
-W przypadku gitlab.com aplikacja OAuth, z której korzysta Aplikacja, jest zarejestrowana na moim koncie GitLab; ta rejestracja nie daje mi dostępu do Twojego konta ani tokenów. W przypadku serwerów hostowanych samodzielnie aplikację rejestruje administrator Twojej instancji. W każdej chwili możesz cofnąć Aplikacji dostęp na stronach ustawień GitLab „Applications” lub „Access Tokens”.
+W przypadku gitlab.com aplikacja OAuth, z której korzysta Aplikacja, jest zarejestrowana na moim koncie GitLab; ta rejestracja nie daje mi dostępu do Twojego konta ani tokenów. W każdej chwili możesz cofnąć Aplikacji dostęp na stronach ustawień GitLab „Applications” lub „Access Tokens”.
 
 ## 4. Zakupy
 
@@ -79,7 +79,7 @@ Jeśli napiszesz do mnie, przechowuję Twój adres i wiadomość, aby Ci odpowie
 ## 7. Bezpieczeństwo
 
 - Akceptowane są wyłącznie adresy serwerów HTTPS. Certyfikaty weryfikuje iOS; serwer hostowany samodzielnie z prywatnym urzędem certyfikacji wymaga zainstalowania na urządzeniu profilu konfiguracyjnego.
-- Tokeny są chronione przez pęk kluczy iOS i można je odczytać tylko wtedy, gdy urządzenie jest odblokowane.
+- Tokeny są chronione przez pęk kluczy iOS i można je odczytać dopiero po pierwszym odblokowaniu urządzenia po ponownym uruchomieniu.
 - Dane GitLab w pamięci podręcznej są chronione przez szyfrowanie plików iOS do pierwszego odblokowania urządzenia po ponownym uruchomieniu.
 
 Żadna metoda przechowywania ani przesyłania danych nie jest w pełni bezpieczna. Jeśli uważasz, że Twój token mógł zostać ujawniony, unieważnij go w GitLab.
