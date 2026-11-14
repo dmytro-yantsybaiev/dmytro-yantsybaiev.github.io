@@ -10,7 +10,7 @@ permalink: /diff/pl/privacy/
 
 **Data wejścia w życie:** 8 listopada 2026 r.
 
-Niniejsza polityka wyjaśnia, co aplikacja na iOS **Diff: Merge Request Review** („Aplikacja”), klient merge requestów dla GitLab™, robi z Twoimi danymi. Jest to niezależna aplikacja, niepowiązana z GitLab Inc. ani przez nią niepopierana, niesponsorowana i niezatwierdzona. GITLAB jest znakiem towarowym GitLab Inc. w Stanach Zjednoczonych oraz innych krajach i regionach. Aplikację tworzy i udostępnia Dmytro Yantsybaiev, twórca oprogramowania prowadzący działalność w Krakowie („ja”), który jest administratorem danych w zakresie przetwarzania wymienionego w tabeli poniżej. Dane kontaktowe znajdują się w sekcji 12.
+Niniejsza polityka wyjaśnia, co aplikacja na iOS **Diff: Merge Request Review** („Aplikacja”), klient merge requestów współpracujący z GitLab™, robi z Twoimi danymi. Jest to niezależna aplikacja, niepowiązana z GitLab Inc. ani przez nią niepopierana, niesponsorowana i niezatwierdzona. GITLAB jest znakiem towarowym GitLab Inc. w Stanach Zjednoczonych oraz innych krajach i regionach. Aplikację tworzy i udostępnia Dmytro Yantsybaiev, twórca oprogramowania prowadzący działalność w Krakowie („ja”), który jest administratorem danych w zakresie przetwarzania wymienionego w tabeli poniżej. Dane kontaktowe znajdują się w sekcji 12.
 
 ## Podsumowanie
 

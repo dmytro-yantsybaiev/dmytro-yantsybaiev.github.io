@@ -9,7 +9,7 @@ permalink: /diff/privacy/
 
 **Effective date:** 8 November 2026
 
-This policy explains what the iOS app **Diff: Merge Request Review** ("the App"), a merge request client for GitLab™, does with your data. It is an independent app, not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions. The App is made and published by Dmytro Yantsybaiev, a software developer based in Kraków, Poland ("I", "me"), who is the data controller for the processing listed in the table below. Contact details are in section 12.
+This policy explains what the iOS app **Diff: Merge Request Review** ("the App"), a merge request client that works with GitLab™, does with your data. It is an independent app, not affiliated, endorsed, sponsored, or approved with or by GitLab Inc. GITLAB is a trademark of GitLab Inc. in the United States and other countries and regions. The App is made and published by Dmytro Yantsybaiev, a software developer based in Kraków, Poland ("I", "me"), who is the data controller for the processing listed in the table below. Contact details are in section 12.
 
 ## Summary
 
@@ -44,7 +44,7 @@ Deleting the App removes the cache and preferences. iOS does not guarantee that 
 
 ## 2. Data sent to your GitLab server
 
-The App is a client for GitLab. Every request it makes goes to the GitLab server you signed in to, over HTTPS only, carrying your token so GitLab can act as you. That includes reading merge requests, diffs, pipelines, job logs, projects and files, and the actions you take by tapping a control, for example approving or removing your approval, merging, commenting or resolving a thread, retrying, cancelling or running a pipeline or job, and starring a project.
+The App is a client that works with GitLab. Every request it makes goes to the GitLab server you signed in to, over HTTPS only, carrying your token so GitLab can act as you. That includes reading merge requests, diffs, pipelines, job logs, projects and files, and the actions you take by tapping a control, for example approving or removing your approval, merging, commenting or resolving a thread, retrying, cancelling or running a pipeline or job, and starring a project.
 
 - People's avatars are loaded only from your own GitLab server, never from Gravatar or any other third-party image service. Project avatars are not loaded at all.
 - When you type a self-managed server address, the App sends requests without credentials to `/api/v4/user` on that address and, if needed, on the root of the same host, to confirm it is a GitLab server before asking for a token.

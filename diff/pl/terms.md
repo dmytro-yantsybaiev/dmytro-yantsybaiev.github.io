@@ -10,7 +10,7 @@ permalink: /diff/pl/terms/
 
 **Data wejścia w życie:** 10 października 2026 r.
 
-Niniejsze Warunki korzystania („Warunki”) stanowią umowę między Tobą a przedsiębiorcą Dmytro Yantsybaiev, twórcą oprogramowania prowadzącym działalność w Krakowie (Polska), który udostępnia aplikację na iOS **Diff: Merge Request Review** („Aplikacja”), klienta merge requestów dla GitLab™; o sobie piszę w pierwszej osobie („ja”). Instalując Aplikację lub korzystając z niej, akceptujesz niniejsze Warunki. Jeśli ich nie akceptujesz, nie korzystaj z Aplikacji.
+Niniejsze Warunki korzystania („Warunki”) stanowią umowę między Tobą a przedsiębiorcą Dmytro Yantsybaiev, twórcą oprogramowania prowadzącym działalność w Krakowie (Polska), który udostępnia aplikację na iOS **Diff: Merge Request Review** („Aplikacja”), klienta merge requestów współpracującego z GitLab™; o sobie piszę w pierwszej osobie („ja”). Instalując Aplikację lub korzystając z niej, akceptujesz niniejsze Warunki. Jeśli ich nie akceptujesz, nie korzystaj z Aplikacji.
 
 Jeśli jesteś konsumentem, nic w niniejszych Warunkach nie odbiera Ci praw, które przyznaje Ci prawo Twojego kraju. Przedsiębiorca chroniony art. 385⁵ Kodeksu cywilnego i art. 7aa ustawy o prawach konsumenta (przedsiębiorca na prawach konsumenta) jest traktowany jak konsument w sekcjach 5, 6, 7, 9 i 11.
 

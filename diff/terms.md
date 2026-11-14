@@ -9,7 +9,7 @@ permalink: /diff/terms/
 
 **Effective date:** 10 October 2026
 
-These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who, as a trader ("I", "me"), publishes the iOS application **Diff: Merge Request Review** ("the App"), a merge request client for GitLab™. By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
+These Terms of Use ("Terms") are the agreement between you and Dmytro Yantsybaiev, a software developer based in Kraków, Poland, who, as a trader ("I", "me"), publishes the iOS application **Diff: Merge Request Review** ("the App"), a merge request client that works with GitLab™. By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
 
 If you are a consumer, nothing in these Terms takes away rights that the law of your country gives you. A sole trader protected by Article 385⁵ of the Polish Civil Code and Article 7aa of the Polish Consumer Rights Act is treated as a consumer in sections 5, 6, 7, 9 and 11.
 
