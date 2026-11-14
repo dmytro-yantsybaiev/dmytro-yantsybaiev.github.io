@@ -36,7 +36,7 @@ Musisz osiągnąć wiek, w którym zgodnie z prawem miejsca Twojego zamieszkania
 
 ## 4. Licencja
 
-Udzielam Ci ograniczonej, niewyłącznej i niezbywalnej licencji na korzystanie z Aplikacji na urządzeniach marki Apple, których jesteś właścicielem lub którymi dysponujesz, w zakresie dozwolonym przez Zasady korzystania (Usage Rules) zawarte w Warunkach usług Apple Media Services (Apple Media Services Terms and Conditions). Z samej Aplikacji mogą też korzystać inne konta powiązane z Tobą w ramach Chmury rodzinnej (Family Sharing) lub zakupów zbiorczych, na ile pozwala na to Apple. Subskrypcji nie można udostępniać w ramach Chmury rodzinnej; każde Konto Apple, które ma mieć pełny dostęp, potrzebuje własnej subskrypcji.
+Udzielam Ci ograniczonej, niewyłącznej i niezbywalnej licencji na korzystanie z Aplikacji na urządzeniach marki Apple, których jesteś właścicielem lub którymi dysponujesz, w zakresie dozwolonym przez Zasady korzystania (Usage Rules) zawarte w Warunkach usług Apple Media Services (Apple Media Services Terms and Conditions). Z samej Aplikacji mogą też korzystać inne konta powiązane z Tobą w ramach Chmury rodzinnej (Family Sharing) lub zakupów zbiorczych, na ile pozwala na to Apple. Plan roczny można też udostępniać w ramach Chmury rodzinnej; planu tygodniowego nie można.
 
 Nie wolno Ci:
 

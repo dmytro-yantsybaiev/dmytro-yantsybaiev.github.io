@@ -35,7 +35,7 @@ You must be old enough to enter a binding contract where you live, or have your 
 
 ## 4. Licence
 
-I grant you a limited, non-exclusive, non-transferable licence to use the App on Apple-branded devices that you own or control, as permitted by the Usage Rules in the Apple Media Services Terms and Conditions. The App itself may also be accessed and used by other accounts associated with you through Family Sharing or volume purchasing, as Apple permits. Subscriptions are not enabled for Family Sharing; each Apple Account that wants full access needs its own subscription.
+I grant you a limited, non-exclusive, non-transferable licence to use the App on Apple-branded devices that you own or control, as permitted by the Usage Rules in the Apple Media Services Terms and Conditions. The App itself may also be accessed and used by other accounts associated with you through Family Sharing or volume purchasing, as Apple permits. The Yearly Plan can also be shared through Family Sharing; the Weekly Plan cannot.
 
 You may not:
 
